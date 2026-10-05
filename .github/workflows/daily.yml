@@ -1,0 +1,65 @@
+name: Daily TLDL
+
+on:
+  schedule:
+    # Two entries cover daylight saving: 10:45 UTC is 6:45 AM EDT, 11:45 UTC is 6:45 AM EST.
+    # The script skips whichever run is too early or redundant.
+    - cron: "45 10 * * *"
+    - cron: "45 11 * * *"
+  workflow_dispatch:
+    inputs:
+      force:
+        description: "Rebuild today's episode even if it already exists"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: tldl
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Make cover art
+        run: python make_cover.py
+
+      - name: Build episode
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          BASE_URL: ${{ vars.BASE_URL }}
+          TLDR_TOPICS: ${{ vars.TLDR_TOPICS }}
+          TTS_VOICE: ${{ vars.TTS_VOICE }}
+          TARGET_MINUTES: ${{ vars.TARGET_MINUTES }}
+          CLAUDE_MODEL: ${{ vars.CLAUDE_MODEL }}
+        run: |
+          if [ "${{ inputs.force }}" = "true" ]; then
+            python generate.py --force
+          else
+            python generate.py
+          fi
+
+      - name: Publish
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs data
+          if git diff --cached --quiet; then
+            echo "Nothing new to publish."
+          else
+            git commit -m "TLDL episode $(TZ=America/New_York date +%F)"
+            git push
+          fi
