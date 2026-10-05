@@ -414,7 +414,7 @@ def write_script(prompt):
     resp = client.messages.create(
         model=MODEL,
         max_tokens=8000,
-        temperature=1.0,
+        
         system=SYSTEM_PROMPT,
         messages=[{"role": "user", "content": prompt}],
     )
