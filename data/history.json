@@ -1,6 +1,24 @@
 {
   "episodes": [
     {
+      "date": "2026-10-06",
+      "title": "Watermarks, Billions, and Backported Fixes",
+      "summary": "Good morning, Zach. It's Tuesday, October 6th, and this is T L D L. Before we get into anything, a quick note. Whatever is on your plate today, you're better equipped for it than you probably feel at 7:30 in the morning. Take the first thing, do it well, and let momentum handle the rest. You've got...",
+      "notes_html": "<p><b>Weather:</b> high 66F, low 40F, clear.</p><h3>TLDR AI (2026-10-06)</h3><ul><li><a href=\"https://openai.com/index/eu-text-provenance/\">OpenAI to Add Text Watermarks</a></li><li><a href=\"https://x.com/noahrshinn/status/2107161132192690558\">Instinct in group chats</a></li><li><a href=\"https://www.bloomberg.com/news/articles/2026-10-05/openai-in-talks-with-uae-funds-blackrock-for-30-billion-round\">OpenAI in $30 Billion Round Talks With UAE Funds, BlackRock</a></li><li><a href=\"https://devin.ai/blog/memory-and-dreaming\">How Devin's Memory and Dreaming Work</a></li><li><a href=\"https://www.theaithinker.com/p/how-to-build-an-ai-native-software\">How to Build an AI-Native Software Factory</a></li><li><a href=\"https://www.akashbajwa.co/p/openais-b2b-marketplace-the-hyperscaler\">OpenAI's B2B Marketplace: The Hyperscaler Of AI Apps</a></li><li><a href=\"https://github.com/gatewai-dev/framefields\">Framefields</a></li><li><a href=\"https://x.com/liquidai/status/2107161990808674404\">Announcing d1 with vision</a></li><li><a href=\"https://reflection.ai/blog/introducing-beam\">Reflection Introduces Beam Model</a></li><li><a href=\"https://openai.com/index/new-chatgpt-ads-format-and-measurement/\">OpenAI Expands Ads in ChatGPT</a></li><li><a href=\"https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors\">Two Room-Temperature Antiferromagnetic Semiconductor Candidates</a></li><li><a href=\"https://x.com/WillManidis/status/2107139199463780637\">Asset Light Software</a></li><li><a href=\"https://techcrunch.com/2026/10/05/etched-fields-funding-offers-at-40b-valuation-sources-say/\">Etched fields funding offers at $40B+ valuation, sources say</a></li><li><a href=\"https://x.com/lennysan/status/2107131339355181240\">10 Takeaways from Tibo Sottiaux</a></li><li><a href=\"https://www.lesswrong.com/posts/7wrzfaiCq3u8xkY5G/self-modeling-interventions-modulate-emergent-misalignment\">Self-Modeling Interventions Modulate Emergent Misalignment</a></li><li><a href=\"https://deepmind.google/models/gemma/gemmaverse/living-models/\">Living Models pairs Gemma 4 with BOTANIC-1 to help decode plant DNA</a></li><li><a href=\"https://www.cnbc.com/2026/10/05/nvidia-groq-deal-stockholder-lawsuit.html\">Nvidia's $20 billion Groq deal faces lawsuit alleging startup's stockholders were shortchanged</a></li><li><a href=\"https://cohere.com/blog/introducing-north-2\">North 2: Enterprise AI Without Compromises</a></li></ul><h3>TLDR TECH (2026-10-06)</h3><ul><li><a href=\"https://9to5mac.com/2026/10/05/apple-invites-developers-to-submit-iphone-duo-ready-apps-to-the-app-store/\">Apple invites developers to submit iPhone Duo-ready apps to the App Store</a></li><li><a href=\"https://workspaceupdates.googleblog.com/2026/10/preview-edit-and-collaborate-on-Markdown-files-natively-across-Drive-and-Docs.html\">Preview, edit, and collaborate on Markdown (.md) files natively across Drive and Docs</a></li><li><a href=\"https://arstechnica.com/science/2026/10/controlling-the-brain-with-light-earns-a-physiology-nobel/\">Controlling the brain with light earns a physiology Nobel</a></li><li><a href=\"https://www.nytimes.com/2026/10/05/business/energy-environment/tandem-solar-panels-us-china.html\">A New Crop of Solar Panels Is the US' Best Hope of Catching China</a></li><li><a href=\"https://lemire.me/blog/2026/10/05/ephemeral-testing/\">Ephemeral testing</a></li><li><a href=\"https://deadparrotbbs.com/why-plain-text-is-still-one-of-the-best-technologies-we-have/\">Why Plain Text Is Still One of the Best Technologies We Have</a></li><li><a href=\"https://stratechery.com/2026/apple-and-a-hackers-future/\">Apple and a Hacker's Future</a></li><li><a href=\"https://terrytao.wordpress.com/2026/10/05/the-future-of-mathematics/\">The Future of Mathematics</a></li><li><a href=\"https://tomtunguz.com/inference-is-the-most-important-market-in-software\">Inference Is the Most Important Market in Software</a></li><li><a href=\"https://www.tanayj.com/p/how-personal-agents-get-paid\">How Personal Agents Get Paid</a></li><li><a href=\"https://jacobtomlinson.dev/posts/2026/writing-blog-posts-while-walking-the-dog/\">Writing blog posts while walking the dog</a></li><li><a href=\"https://writing.oliviahelens.com/p/biosecurity-ai-and-the-culture-war\">Biosecurity, AI, and the Culture War</a></li><li><a href=\"https://www.androidheadlines.com/google-fitbit-edge\">This Is the Fitbit Edge, Google's Next Fitness Tracker</a></li><li><a href=\"https://www.noahpinion.blog/p/what-the-ai-boom-is-doing-for-americans\">What the AI boom is doing for Americans</a></li></ul><h3>IBM</h3><ul><li><a href=\"https://newsroom.ibm.com/2026-10-06-ibm-and-red-hat-remediate-more-than-400-previously-unknown-open-source-vulnerabilities\">IBM and Red Hat Remediate More Than 400 Previously Unknown Open Source Vulnerabilities</a></li></ul>",
+      "file": "episodes/2026-10-06.mp3",
+      "bytes": 4651344,
+      "seconds": 775,
+      "published": "2026-10-06T10:19:57.028841-04:00",
+      "opening": "Good morning, Zach. It's Tuesday, October 6th, and this is T L D L. Before we get into anything, a quick note. Whatever is on your plate today, you're better equipped for it than you probably feel at ",
+      "closing": "That's the show, Zach. Go enjoy that 66 degree sunshine, and remember the jacket for the first hour only. And a last thought: an AI agent walked into a bar, remembered everything from last time, and s",
+      "picks": {
+        "greeting": "Open with a short, sincere note of encouragement for the day ahead.",
+        "tone": "dry and witty",
+        "transition": "Group related stories into themes and connect them, then handle one-offs quickly.",
+        "signoff": "End with a light joke and a sign-off."
+      }
+    },
+    {
       "date": "2026-10-05",
       "title": "Sovereign AI, Moon Reactors, and Clear Skies",
       "summary": "Good morning, Zach. It's Monday, October 5th, and this is T L D L. Let's get your week started.\n\nFirst, the weather in Auburn Hills, because it's a good one. It's a clear, calm day with almost no chance of rain, about 2 percent at the very most. Sunrise was at 7:34, so the sun is just getting up as...",
@@ -20,7 +38,7 @@
     }
   ],
   "tldr_used": {
-    "ai": "2026-10-05",
-    "tech": "2026-10-05"
+    "ai": "2026-10-06",
+    "tech": "2026-10-06"
   }
 }
