@@ -1,0 +1,41 @@
+Fog, Drizzle, and a Busy Sunday Feed
+
+Morning, Zach. Just walked in with the news under my arm and a little fog still clinging to my jacket. It's Sunday, October 11th, this is T L D L, and we've got a lot to get through, so let's settle in.
+
+Let's start outside. Auburn Hills is waking up gray and damp today. The high is only 61 and the low is 57, so it's a narrow temperature range. Mornings will be foggy, around 58 degrees, with the best chance of light drizzle, about 24 percent. Sunrise is at 7:41, so the fog is hiding most of it. Around midday it stays overcast, 59 to 60 degrees, and the drizzle chance drops to about 15 percent. This afternoon holds at 60 under cloud, with rain odds down to 8 percent. By evening it's overcast and 60, and the chance of rain is just 3 percent. Wind tops out around 9 miles an hour, so nothing to worry about there. If you're heading out this morning, grab a light jacket, maybe one with a hood, and give yourself a few extra minutes if you're driving in the fog. You won't need it as much by dinner.
+
+On to the news. There's no new issue of the TLDR AI newsletter yet, so the latest is still Friday's, and we already covered that one. The tech issue is out, and it's a big one. I'll group things so it doesn't blur together.
+
+First, the model makers. Microsoft introduced Microsoft-Decision-1, which it describes as a model for fast decision-making. Interesting that the pitch is speed. Staying on the chip and model side, Nvidia is reportedly in talks to acquire Reflection AI, a US startup known for open models. That would be a notable move for Nvidia.
+
+At Anthropic, there are a few things. One is a research post on investigating unintended model actions in their evaluations and internal use. Another is the launch of something called the Anthropic Cyber Mission. And there's a report that Anthropic's new budget model, Claude Haiku 5.5, is much better at ignoring hidden commands. That's prompt injection defense, and it's worth knowing about if you're talking to clients about agents. Related to that, there's a Redwood Research paper on distillation for incrimination and distillation for capabilities. I'd say it's one for the reading pile.
+
+Now OpenAI. The New York Times has a piece on mathematicians reacting to a new OpenAI release, and the headline words are "breathtaking" and "devastating." That's a strong reaction. Separately, OpenAI is rolling out an Ultrafast mode for GPT-6.1 Sol in the API, Codex, and ChatGPT Work. And on the money side, OpenAI told investors its annualized revenue was nearing 50 billion dollars at the end of September. That's well below the 70 billion dollars reported by media based on investor documents. That's quite a gap. There's also a post called OpenAI's Dots, which I'll just point you to if you're curious.
+
+Google had its Gemini at Work 2026 event, which introduced a Gemini agent. Also in the model world, Cloudera has a post on the business context for Mistral Large 4. And Epoch AI asks a fun question: can AI automate Epoch? I like when a research group points the question at itself.
+
+Next, agents and coding, which is clearly a theme today. Ars Technica says AI coding agents generate more code, but not more software. Hmm. That one sounds like it belongs in a slide deck about adoption. A related blog post asks, why are coding agents so dumb? Honest title. Then there's a very different one: someone spent over 500 billion tokens letting AI agents decompile a first-person shooter. That's a lot of tokens for a game.
+
+On the tooling front, a developer launched gittifacts, an agent-native git platform. Superpowers released version 7.0. Prime Intellect wrote about rewriting its Prime Agent in Rust. And AI2 replaced its priority GPU scheduler with a time-budget system. Interesting, a scheduling philosophy change.
+
+For the platform side, Anthropic published Claude docs on multiagent orchestration, and a Claude article about building live dashboards and animated explainers. There's also a guide to self-hosted managed agents, covering Claude, OpenAI, AWS, and open source. And a Substack post on how agents unlock new markets.
+
+Now general developer and infrastructure news. Bun version 1.4.3 adds a built-in TypeScript type checker along with runtime updates. Handy if you're in that ecosystem. And Deno is joining Cloudflare. That's a big one for JavaScript runtimes. Facebook released Lifeguard, a static analyzer for Python lazy imports. There's an introduction to C plus plus 26 contracts, with preconditions and postconditions. And a report that Rust 1.99 can return FFI bool values that aren't zero or one on x86 64 Linux. That sounds like a bug worth checking before you upgrade.
+
+On databases, a post says PostgreSQL 18's async I/O halved vacuum time once reads hit the disk. There's also a look at Atlas Infinite, MongoDB's disaggregated architecture. And a piece arguing that unikernels were hard, with the key word being "were."
+
+Now a few security and internet plumbing items. Let's Encrypt is shortening its certificates to 64 days, the first reduction in its history. Ripple fixed a 2015 bug that allowed XRP minting. And this one lands today: the DNS root changes its key on Sunday, and a resolver that still trusts only the old key stops resolving everything. That's a headline that earns the word "stops." If anything feels weird with the internet today, that might be why.
+
+Now hardware and compute. The State of AI Report has two Compute Index pages, one on GPU lifetime and economics, and one on clusters and compute access. vLLM published support for Nvidia Vera Rubin NVL72. TSMC is tapping GlobalFoundries to boost US silicon interposer production in a 2 billion dollar deal. In a legal story, a fixer in the Super Micro case pleaded guilty to sending AI servers to China. And Ukrainian drones knocked out an AI data center belonging to a company described as Russia's Google. Compute is clearly becoming a real-world target.
+
+On the PC side, Microsoft will let Copilot act on local files on Windows PCs. Nvidia and Microsoft say the agentic PC era starts with the Surface Laptop Ultra. Both of those are worth tracking for enterprise users. Amazon also has new Alexa Tablets, which drop the Fire branding but are more Android than ever.
+
+Then business and policy. The Trump administration is targeting Microsoft in a new immigration crackdown. On funding, Ramp hit a 60 billion dollar valuation in a 1.85 billion dollar round. TypeSafe, the creator of Jev, closed an 870 million dollar round at a 7.5 billion dollar valuation. And Oxide announced a 445 million dollar Series D.
+
+Finally, space and connectivity. SpaceX is buying key spectrum that could help Starlink Mobile become a major US cell carrier. And Amazon built its 1,000th satellite and is weeks away from its space internet rollout.
+
+I'm skipping the sponsored item at the top of the issue, as usual.
+
+Over on the IBM front, there's nothing new in the last couple of days. A quiet stretch there.
+
+That's the show, Zach. Take that light jacket for the foggy start, and you can leave it behind by evening. If you remember one thing today, remember this: OpenAI told investors its annualized revenue was nearing 50 billion dollars, not the 70 billion that was reported.
