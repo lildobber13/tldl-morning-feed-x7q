@@ -1,0 +1,57 @@
+Mondays Wearing a Blazer
+
+Good morning, Zach. I have a theory that Monday is just Sunday in a blazer, trying to look like it has its life together. It doesn't fool me, and I don't think it fools you either. It's October 26th, this is T L D L, and I'll keep an eye on the blazer while you get settled.
+
+Let's start with the weather, because it's the one part of today that's actually behaving.
+
+In Auburn Hills, you're looking at a high of 64 and a low of 47. The sun doesn't come up until 7:59, so right now it's still getting dressed. Your morning, from about 7 to 10, runs 47 to 50 degrees with clear skies. That's a proper jacket start. By late morning and into the early afternoon it climbs from the upper 50s to 64, still clear, and the jacket turns into something you carry. Then from about 3 to 6 it's overcast, holding at 62 to 64. It stays overcast into the evening and cools off to the mid 50s, 53 to 57. The sun sets at 6:33, so the commute home will get dim.
+
+Rain is basically off the table. The highest chance anywhere in the day is about 5 percent, and the evening sits around 4. Wind tops out near 12 miles an hour, which is breezy but not a hat-chasing situation. So the practical advice is a light jacket for the morning, and no umbrella. You can leave it home and feel smug about it.
+
+Now the news. The AI newsletter hasn't put out a new issue yet today. The latest one was Friday's, and we already covered it, so we'll let it sleep in. The tech newsletter is here, though, and it has plenty.
+
+Let's start with phones, since everyone has an opinion about them. If you've ever wondered whether a phone should also be a tablet, Apple is wondering for you. The New York Times reviewed the iPhone Duo, which is basically a miniature tablet that folds up into a phone. The reviewer says the main audience is people who want a tablet everywhere they go. Think commuters and business travelers who spend long stretches on trains, buses, and planes. They'll probably love it. Everyone else may find it frustrating, because as a plain smartphone it's average. So it's a great device if you live in transit, and an average phone with a fancy hinge if you don't.
+
+Next, money and machines, which is a pairing that never gets old. This matters because it shows how far the compute race has spread beyond the usual AI suspects. Bloomberg looks at Jane Street and other high-frequency trading firms, which are now fighting for AI power as well as speed. These firms make their money on tiny price differences, moving in and out of positions very quickly. As they lean more on machine learning, how well they do is directly tied to how much computing power they have. So they're spending big to get access to more processing capacity and faster chips. The risks are significant, but most high-speed traders see few options if they don't want to become obsolete. Even the people who built their business on being fast now have to be big.
+
+Now to space, where the story is more uncomfortable. It matters because orbit is getting crowded, and who controls traffic there is a real question. The Guardian reports that the US military has given SpaceX access to restricted space tracking data. That raises national security questions, and also the question of whether the Trump administration is trying to hand over traffic control in Earth's orbit to a donor. For context, Elon Musk's Doge program fired many of the federal government's space traffic control staff in 2025. The administration has also twice tried to financially gut the Traffic Coordination System for Space department. A lot of people in the industry see all of this as an attempt by Musk to privatize space traffic control. So the referee is being quietly replaced by one of the players. Sarcasm aside, that's worth watching.
+
+Also in the science column, a story about brains, since your own is presumably still booting. It matters because it points to where neurotechnology might go next. Researchers have built an implantable neural chip that tracks communication across different brain regions. It records brain activity and pulls out biomarkers that describe the strength of brain waves and the synchrony between signals from different regions. A machine learning algorithm can then decode those signals to tell cognitive and emotional states apart. The big idea is using those brain-network biomarkers to trigger precisely timed stimulation, which could have many uses in next-generation neurotechnology.
+
+Now let's move to the programming section, which this morning is largely a debate about how much we should trust AI.
+
+The first one matters if you spend your days helping people use these tools, which you do. It's a piece called The State of Context Engineering. The argument is that context engineering is hard in its own particular ways because AI models aren't people. It helps to understand how models are built, optimized, and trained, because their construction creates its own set of failure modes. The takeaway is that context engineering will be a challenge forever, no matter how good the models get. Good news for job security, mildly annoying news for everyone else.
+
+The second one is a pushback on complacency. It matters because a lot of people are about to declare software finished. The post argues that we should be more ambitious with the software we build. AI can now one-shot many projects, so almost anyone can make software. But it still struggles with many harder tasks. The author says the people claiming everything just works, or that software is solved, aren't working on the hard problems. As models get more capable, the answer is to aim higher, not to relax.
+
+Now the Miscellaneous section, which this morning is a good one.
+
+This first story matters because it's a real test of whether the US can build chips at scale. The New York Times opinion section visits TSMC Arizona's first plant in Phoenix. It's been producing chips for two years, and its output rate is comparable to the plant's in Taiwan. TSMC sends engineers to Arizona on contracts of up to three years, and their families move with them from Taiwan. Some of the families from that first wave now want to build lives in the US. Some want their children to integrate, some are thinking about the kids' education, and some simply prefer the American lifestyle. There are legal pathways for that. The piece looks at what the factory has done for Phoenix, for the employees who moved, and for American chip manufacturing overall.
+
+The second one is a bit of workplace archaeology. It matters because every company that gets acquired eventually has this exact experience. It's part two of a series on what life at Salesforce was like after it bought Slack. The cultural gap was obvious. Slack had a tight-knit culture where people helped each other. Salesforce was much larger, with systems and processes for getting things done. By the author's account, Slack's cognitive overhead was nothing compared to the overbearing weight of the Salesforce monolith. So that's a polite way of saying the monolith won.
+
+Last, the quick links, and I'll go through these fast.
+
+There's a technical deep dive into Cap's move to GPUI. The headline detail is that Cap 0.6.1 is the first version without a web browser inside it. That's a notable thing to be proud of in 2026.
+
+A post called The Rise and Fall of Jev Hype calls the Jev hype cycle a prime example of the manipulative marketing we've all gotten used to by now.
+
+The Long Now piece, titled Attention is All You Need, argues that we have to direct our attention more consciously, because the future hinges on the choices we make now.
+
+Maggie Appleton writes about planning with agents. The point is that we're trying hard to make agents productive while we're away, and that takes excellent planning.
+
+Then there's an essay called Cognitive Mercantilism. Its idea is that most people will no longer need to produce much intelligence in order to consume a lot of it.
+
+And one more, which is worth a raised eyebrow. A writer asks why OpenAI and Anthropic cut their LLM prices by up to 80 percent within a few months. The author finds it strange that they'd cut their main revenue source while losing billions and planning to go public soon. It's a fair question, and I'd love an answer too.
+
+On to IBM, and this morning it's a racing story. It matters because it's a public example of IBM's newer tools doing real work with a real audience. Ahead of last weekend's United States Grand Prix at Austin's Circuit of the Americas, IBM and Scuderia Ferrari HP announced new AI-powered features in the Scuderia Ferrari mobile app. They were built using IBM Bob and IBM Consulting Advantage. The goal is to give the team's global community of nearly 400 million fans, the Tifosi, a definitive home in the app.
+
+The headline feature is a Race Timeline. It captures the key moments of every session as they unfold, in an easy, scrollable, visual format. That covers a driver pitting or setting the fastest lap, the weather turning, or a Virtual Safety Car being called.
+
+Race Summaries has also been expanded. It now covers all sessions, including practice, sprint, qualifying, and race day. AI agents built with IBM watsonx turn complex race data and strategic insights from the drivers and team principal into narratives. Fans get them within minutes of each session ending.
+
+There's a game in there too. Inside the Game Center, the new Pitstop Reaction Game challenges fans to pick the right tire in the quickest time. Points go on a global leaderboard, so fans can see how they rank against other Tifosi. There are also quizzes and predictor leagues to play with friends.
+
+And beyond race weekends, fans can now share six-word stories about what the team means to them. Ferrari will showcase them in a new section called the Tifosi Hub. It's a nice touch. Six words is about the length of most of my Monday emails.
+
+That's the show, Zach. Light jacket on for the cool, clear morning, off by lunch, and no umbrella needed. The one thing worth keeping from today is that context engineering is hard in ways that won't go away, no matter how good the models get. I'll talk to you tomorrow.
