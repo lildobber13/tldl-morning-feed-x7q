@@ -1,0 +1,67 @@
+Dry Weather and Wet Cement Deals
+
+Zach, it's Friday, the last day of the week that still pretends to be a normal workday before the weekend takes over. Good morning, this is T L D L.
+
+Let's start outside. Today in Auburn Hills is dry, cool, and a little gray by the end. The high is 57 and the low is 41, so it's a proper late October day, not a dramatic one.
+
+The sun doesn't come up until about 8:04, so if you're looking out the window right now, it's still dark. By the time it's up, you'll be at 41 to 43 degrees with clear skies. Chilly, but the nice kind of chilly.
+
+Through late morning and lunchtime, it climbs into the upper 40s and low 50s, and the sky stays clear. This is your best window, if you can get outside for even ten minutes.
+
+In the afternoon, clouds roll in and it turns overcast, with temperatures around 56 to 57. That's the warmest part of the day. Evening stays overcast and cools back down to between 47 and 50. Sunset is at 6:28.
+
+The chance of rain is zero percent, all day. Wind tops out around 10 miles an hour, which is barely worth mentioning. So the practical advice is simple. Wear a jacket out the door this morning, expect to shed it by the afternoon, and leave the umbrella where it is. Halloween is tomorrow, and on today's numbers it looks like you'd want a coat over any costume.
+
+Now the news, and there's a lot of it, so let's go.
+
+Google has introduced Gemini 4 Carbon, a model it says improves energy efficiency while boosting performance on natural language tasks. The pitch is a smaller carbon footprint, and Google says it wants to set a new standard for eco-friendly models. A greener model is a nice thing to hear about. I'd like to see the numbers behind it, but the summary doesn't give any.
+
+On the open side, NVIDIA released Nemotron 3.5 Transcribe, an open-weight model for multilingual transcription, translation, speaker attribution, and even audio question and answer. It supports up to 40 languages, and NVIDIA says it ranks first on several transcription and speaker attribution leaderboards. It comes with Granary v2, which offers reusable data pipelines and fine-tuning options, so you can adapt it to specialized vocabularies. For anyone who sits through a lot of meetings, that's a useful combination.
+
+Staying with the infrastructure theme, Decagon wrote about an inference stack that improves itself. Their AutoResearch agents diagnose bottlenecks, test optimizations against replays of production traffic, and remember what they learned between experiments. They report throughput gains of up to 2.5 times within latency requirements, using quantization, scheduling, engine patches, and speculative decoding. And production changes still need a human to approve them. Good. Let the robot suggest, but keep a person holding the pen.
+
+Next, a thoughtful piece on Artificial Analysis v5 and what it calls the benchmarker's dilemma. The argument is that independent model evaluation is hard. You want one number that matches vibe checks, community sentiment, and real science, and that still won't be stale in three months. And these evaluators help decide winners and losers in a trillion-dollar market, which also lets them steer how models get built. That's a lot of pressure on a leaderboard.
+
+Now for something delightfully unnecessary. Someone built Qwenputer, a fully working, deterministic RISC-V CPU that runs inside Qwen3.5. It uses the model's own Gated DeltaNet layers as RAM. It can do arithmetic and run C and MicroPython code with no external runtime or tools. The developer even slotted in an experimental file storage system inside the model. Is it practical? Probably not. Is it wonderful? Absolutely.
+
+Now the developer tools corner, which was busy. Vercel launched Vercel CI in beta, built to keep pace with coding agents. It runs only the tasks affected by a code change and spins up only the compute those checks need. Vercel says that cut the time from git push to CI pass by two to six times.
+
+GitHub introduced Copilot Fusion, which routes and orchestrates models for each task. It builds on Project HydraFusion's multi-model orchestration and Copilot's auto model selection, balancing performance against cost. How it works depends on the level of effort the user picks, and administrators control which models it can use and whether it's the default. That admin control is the part I'd flag if you're talking to enterprise teams.
+
+Microsoft, meanwhile, introduced the Microsoft Copilot harness. It already powers Copilot Code, Copilot Studio, the GitHub Copilot app, the CLI, VS Code, and more, and now it's available through Microsoft Foundry. It's a fully managed way to build agents that reason, use tools, and finish long-running tasks, and it's designed to work across model families. So that's two big announcements in one week about orchestrating many models. Funny how everyone suddenly agrees on the same idea.
+
+A few quick ones. GitHub also says Copilot Automations now learn from real-world outcomes and improve themselves. Google introduced a central place to build and manage Connected Apps. ElevenLabs released Cue, a forced alignment model that gives character-level timing in audio files. And a team called Mirendil introduced Lor, a system where agents write code, run experiments, and iterate for days across hundreds of parallel workers. Days. I can't even iterate on lunch for days.
+
+OpenAI now lets US Pro users text their Dot agents over iMessage and RCS. You can send instructions as text, photos, or voice memos. So your agent now lives next to your group chat, which feels like a promotion and a demotion at once.
+
+Now, Zach, this next one is probably the most relevant to your day job. Anthropic launched reporting tools to help companies measure and optimize their AI spending on products like Claude Code. They offer insights on productivity and costs, plus recommendations. That addresses a big worry for enterprise customers. The report notes competition from models like OpenAI's Astra, but Anthropic's strong enterprise footprint and sticky workflows keep driving adoption and spending. The question every CFO eventually asks is, what did we buy? Now there's a dashboard for that.
+
+And for contrast, Meta launched Waddle World, a virtual AI pet app that works like a Tamagotchi. It's out in the Philippines on iOS and Android. It's part digital pet, part personal journal, with mini-games and no pressure. The report says it reflects Meta's cautious approach after legal trouble for other AI companion apps. A pet that can't sue anybody. Smart.
+
+Moving over to the broader tech news, the big deal is DoorDash agreeing to buy Instacart for 17 billion dollars. Instacart shareholders get 65 dollars a share, which is 26 percent above where the stock sat on October 22. The companies say combining their technology and infrastructure will mean faster deliveries and more affordable prices. We'll see about that. The deal isn't expected to close until late next year, or possibly 2028, so your groceries are safe for now.
+
+Reddit says it's moving toward a logged-in-only experience. It will start testing in select non-US markets in the fourth quarter. The CEO says requiring login will help retain new users, give better signals for ad targeting, and protect access to the site's data. It should also help Reddit understand who's using it and why, which matters for dealing with AI scraping and changing search habits. Translation, the open door is becoming a front desk.
+
+Now the heavy one. Binance suspended transactions after a hack the exchange says totaled around 6.3 billion dollars, billed as the biggest crypto heist ever. Tether and Circle moved quickly to freeze some of the stolen assets. The theft appears to be the work of a North Korean hacking group. Binance's founder said on social media that users' funds are safe. Six point three billion is a number that makes my coffee feel very small.
+
+Also in the tense category, American officials have concluded that Alice Huang, a top executive at a Singapore-based data center company suspected of steering Nvidia chips to China, was a Chinese intelligence asset passing information directly to Beijing. The headline frames Nvidia's chief as a target of the plot. That's one to keep an eye on.
+
+On the science side, Neuralink's Blindsight implant is now ready from an engineering standpoint, according to Elon Musk. The device is meant to help blind people see. It's waiting on regulatory approval before it can be sold, but it already holds Breakthrough Device Designation from the FDA, which should speed up the review. Ready on paper is not the same as ready for the clinic, so patience is in order.
+
+And an essay argues that a golden age of science is coming. The writer says progress has been accelerating over the last two years, and that AI can send hordes of fast, well-read, mathematically gifted researchers at hard problems. It might even open ways of understanding nature that no network of humans could find. Unless we've already found most of the exploitable regularities in the universe, he says, we're about to enter that golden age. It's an optimistic read, and I'll take one of those on a Friday.
+
+A less cheerful essay is called "We Won't Just Hang Out." It takes on the usual answer to what people do after the Singularity, that they'll just hang out. The author argues AI would erode the ways people come together, and with unlimited entertainment, many might not want to socialize at all. Without skills or accomplishments, they might not be very interesting company. Bold take. I'd politely disagree, but I'd also respect anyone who showed up with snacks.
+
+Now for the practical agent reading list. One post, "Making agents fast," collects lessons from twelve months of work. Know which part of inference your speed depends on. Check thinking budgets and read the traces, because they often show what the agent wants to do. Give agents the tools they ask for, not the ones you assume they need. Faster hardware still matters, sandboxes and microVMs add complexity, parallelization helps, and classic performance tuning still applies.
+
+A companion piece, "A Little Determinism," says constraints usually make agents less capable. The challenge is building predictable behavior while leaving the agent free to choose the best tools. The solution described uses a man-in-the-middle egress proxy that denies certain actions and forces reactions through automated messages. That's an agent with a very polite chaperone.
+
+A few quick links to round things out. There's a post on General Hill-Climbing, pitched as the one main loop in AI, a problem-solving framework for nearly anything. Another is called "You can just ask AI to do things," and it notes that models are improving so fast that many people don't realize agents can now automate tasks they couldn't handle before. A book site called The Commanding Heights argues that scarce, controllable positions of economic power will capture the gains from increasingly capable, widespread intelligence. There's a guide to building an AI writing system that turns rambling recordings into drafts. And Martin Fowler writes about LLM voice, with the simple point that if you want to talk to humans, your humanity has to show in your prose. A fitting note to end that section on.
+
+Now IBM, and there's some real news this week.
+
+IBM and the USTA announced a five-year renewal of their partnership. IBM will remain the Official AI and Cloud Partner of the US Open through 2031. The renewal follows a record 2026 tournament, where IBM-powered digital platforms drew more than 270 million total engagements across USOpen.org and the app. This year's new features were Live Updates, Key Moments, and Serve Quality. The partnership goes back more than three decades, to the launch of USOpen.org in 1995 and the mobile app in 2009. The tournament overall had more than 1.2 million fans attend and 3.9 billion social interactions, up 26 percent from 2025. It also drew a record 374 million global broadcast viewer hours. That's a lot of tennis, and a lot of data.
+
+Also, IBM announced watsonx.data integration for Apache Flink. It's aimed at helping data engineering teams build, operationalize, and scale streaming pipelines running on Confluent Platform for Apache Flink. The pitch is that real-time data is now an enterprise requirement, for things like fraud detection, supply chain responses, and AI systems. Running Flink in production usually takes specialists who understand distributed state, checkpoints, and event-time processing, and that expertise becomes a bottleneck. IBM says familiar data engineering practices, from authoring and validation to production operations, can open stream processing to more teams.
+
+That's the show, Zach. Jacket on for the dark, chilly start, off by the afternoon, and no umbrella. The one line worth carrying out the door: the question to be ready for is what all that AI spending is actually buying. Talk tomorrow.
