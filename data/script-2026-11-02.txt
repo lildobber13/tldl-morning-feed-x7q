@@ -1,0 +1,43 @@
+Unlimited Tokens and a Gray Monday
+
+Good morning, Zach. I've had my coffee, I'm settling in next to you, and there's no rush at all. It's Monday, November 2nd, and this is T L D L.
+
+Let's start with the weather, because it's a pretty one to ease into. Auburn Hills is looking mild for early November. We start around 52 degrees this morning with a clear sky, and it warms to about 58 by ten. Around lunchtime you'll see some clouds drifting in, partly cloudy, with temperatures in the low 60s. The high is 63 this afternoon, and that's when the sky settles into overcast. The gray hangs around through the evening, with temperatures sliding back to about 57 or 58. Rain is basically off the table, with a chance of 10 percent at the very most. Wind tops out around 11 miles an hour, so nothing to fuss about. The sun sets at 5:24 tonight, so the commute home will be dim. My suggestion is a light jacket for the cool start, and you can probably shed it by lunch. No umbrella needed.
+
+On to the news. The A I newsletter hasn't put out a new issue yet this morning. The latest one is from Friday, and we already covered it, so I'll leave that one alone. The tech newsletter did publish, and it's a good one, so let's go.
+
+First, a story that's relevant to your whole line of work. When a big company decides how to spend on AI, it shows what they really believe. Cisco has handed a 27-year-old engineer named Padmanabhan Krishnamurthy a very large job. He's a former startup founder who came to Cisco through an acquisition. His assignment is to refactor 98 percent of the company's legacy code within 24 months. He has four weeks to deliver a proof of concept, and his budget is unlimited tokens. Cisco also says it wants to hire more people who fit his mold. I'm curious whether that proof of concept lands on time.
+
+Staying with the money side of AI, here's why this next one matters. It's a read on how investors are feeling right now. OpenAI's latest funding round drew tepid interest. It raised less than half of its 30 billion dollar target. The deal values the company at 1.25 trillion dollars, which is below the 1.4 trillion it had hoped for. The report says investors are getting pickier about who they back and on what terms. That comes right after a brutal industry selloff tied to disappointing earnings from giants including Google, Amazon, and Intel. So the mood has shifted a bit.
+
+Next, a story about where one of the biggest companies in the world is putting its attention. It matters because it shows how much AI is pulling everything toward itself. The piece argues that NASA is no longer an indispensable customer for SpaceX. SpaceX is increasingly disinterested in the US government for most contracts, with data services the exception. It's still fulfilling its existing government contracts, at lower cost and generally with higher reliability. But it's not signing many large new ones in traditional launch and in-space flight. The company sees the vast bulk of its future revenue coming from AI. That's a real problem for America's space agency.
+
+Now a small one from the commerce world. Shopify's Shop Pay now works inside personal agents, and for brands that aren't on Shopify. The coverage frames it as Shopify reducing its dependency on Stripe.
+
+Let's move to robots, because there are three stories there, and they connect nicely.
+
+The first is a peek at where big tech wants to go. Meta reportedly built a humanoid robot prototype meant to handle household chores. It's called Max, and it was built with help from a Chinese robotics company in roughly three months. It runs on Nvidia's Jetson Thor chips, weighs about 106 pounds, and stands about 1.5 meters tall. It has a display that can show facial expressions, a built-in speaker, and hands designed to pick up small objects. Meta is already working on a second prototype. That one gets a redesigned torso and hands, plus a projector and additional sensors to help it handle stairs better. Stairs, of course. Every home robot's nemesis.
+
+The second robot story is about self-driving cars going global. Waymo has picked the Toyota bZ4X as its next robotaxi, starting in Japan in 2027. Toyota will build a custom version of the electric SUV with the Waymo Driver integrated right on the production line.
+
+The third is a research angle that I find fascinating. A piece called Robotics' New Era After Astra says that G P T six Astra can outperform several specialized robotics models. That's even though it wasn't designed as a robotics foundation model. If that holds up, a general model beating the specialists is a big deal for the field.
+
+Now to the people who build software. This next one matters because it shows a hidden cost of the AI boom. Postgres 19 is late, and the author says AI is why. It most likely won't ship until November, and it could slip further. Several large features were reverted quite late in the beta. AI has made it easier to find bugs, which means a lot more bug reports for the committers to work through. That pulls their focus away from new features. And the project cares about quality, so quality wins.
+
+A related question is how to hire the next generation of engineers. Here's why it's interesting. If AI can write code, what are you actually testing for in an interview? One post proposes an answer. In product engineering, figuring out the requirements is still most of the job. So the interview has the candidate talk to an LLM that roleplays as a customer, and the candidate has to extract the requirements. The approach rewards people who think of edge cases, come at problems sideways, and consider whole systems at once. It's relatively cheap, and it can sit alongside a standard human interview. For someone who thinks about AI adoption for a living, that's a neat idea to turn over.
+
+Now the dramatic one, and it's a heavy story. It matters because it's a case study in how a crisis plays out in real time. The New York Times has a deep dive on how Binance's 6.3 billion dollar hack went down. It started with a string of unusual transactions on Thursday afternoon that began to cause alarm. Top executives set up an informal war room with about 100 participants and worked through the night. The company had to halt deposits and withdrawals as more than 6 billion dollars drained from the exchange. The article is based on interviews with people who know what happened, plus analyses from crypto forensics firms. It's described as one of the most damaging crises in Binance's history.
+
+Last, a handful of bigger-picture pieces, the ones to save for a quiet moment.
+
+Vitalik Buterin wrote about digital minimalism. It means being intentional about how you access technology, making a conscious choice instead of getting sucked in by default. His argument is that because of AI, we need social media, the internet, and the web less than before, and there's much more you can do purely locally and offline. He says the flaws of the previous paradigm are reaching their peak, which makes this approach more and more necessary.
+
+Then there's a post called A rising tide raises all rents. It asks how society could give everyone a stake in productivity improvements, while keeping the natural self-regulation of the free market.
+
+There's also a profile titled The Office of the Frontier. It argues that the fight to regulate AI and reform American science runs through the Office of Science and Technology Policy. It's an underutilized office run by Michael Kratsios, who previously worked with Peter Thiel.
+
+And finally, a hopeful one from Terry Tao, titled Mathematics has changed, let's act like it. He writes that we're on the verge of a new era of mathematics, because AI has opened up many new opportunities and possibilities, and plenty of reasons to be optimistic. I like ending the tech on a note of optimism.
+
+Now the IBM front. There's nothing new on IBM in the last few days. It's a quiet stretch, so nothing to report this morning.
+
+That's it for today, Zach. Light jacket for the morning, no umbrella. Closing the laptop now. Talk tomorrow.

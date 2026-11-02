@@ -1,6 +1,24 @@
 {
   "episodes": [
     {
+      "date": "2026-11-02",
+      "title": "Unlimited Tokens and a Gray Monday",
+      "summary": "Good morning, Zach. I've had my coffee, I'm settling in next to you, and there's no rush at all. It's Monday, November 2nd, and this is T L D L.\n\nLet's start with the weather, because it's a pretty one to ease into. Auburn Hills is looking mild for early November. We start around 52 degrees this...",
+      "notes_html": "<p><b>Weather:</b> high 63F, low 52F, overcast.</p><h3>TLDR TECH (2026-11-02)</h3><ul><li><a href=\"https://www.tomshardware.com/tech-industry/big-tech/cisco-gives-27-year-old-engineer-unlimited-ai-tokens-to-rewrite-98-percent-of-the-companys-legacy-code-in-24-months-president-plucks-former-startup-founder-telling-him-to-go-nuts\">Cisco gives 27-year-old engineer unlimited AI tokens to rewrite 98% of the company's legacy code in 24 months</a></li><li><a href=\"https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5\">OpenAI Raises Less Than Half of $30 Billion Target in Latest Round</a></li><li><a href=\"https://arstechnica.com/space/2026/10/spacex-no-longer-needs-nasa-and-thats-a-problem-for-americas-space-agency/\">SpaceX no longer needs NASA, and that's a problem for America's space agency</a></li><li><a href=\"https://www.engadget.com/2303434/meta-reportedly-built-a-humanoid-robot-prototype-that-can-do-household-chores/\">Meta Reportedly Built A Humanoid Robot Prototype That Can Do Household Chores</a></li><li><a href=\"https://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html\">Postgres 19 is late, and it's AI's fault</a></li><li><a href=\"https://seldo.com/posts/a-proposal-how-to-hire-junior-engineers-in-the-age-of-ai/\">A proposal: how to hire junior engineers in the age of AI</a></li><li><a href=\"https://www.nytimes.com/2026/10/31/technology/binance-hack-crypto-north-korea.html\">How Binance's $6.3 Billion Hack Went Down</a></li><li><a href=\"https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html\">Digital minimalism</a></li><li><a href=\"https://jyn.dev/rising-tide-raises-rents/\">A rising tide raises all rents</a></li><li><a href=\"https://blog.starpointllp.com/2026/10/shopify-stripe/\">Shopify Reduces Stripe Dependency</a></li><li><a href=\"https://electrek.co/2026/10/30/waymo-toyota-bz4x-robotaxi-japan-2027/\">Waymo picks Toyota bZ4X as its next robotaxi, starting in Japan in 2027</a></li><li><a href=\"https://robonomics.substack.com/p/robotics-new-era-after-astra\">Robotics' New Era After Astra</a></li><li><a href=\"https://colossus.com/article/michael-kratsios-office-frontier-ostp/\">The Office of the Frontier</a></li><li><a href=\"https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/\">Mathematics has changed. Let's act like it</a></li></ul>",
+      "file": "episodes/2026-11-02.mp3",
+      "bytes": 2913552,
+      "seconds": 485,
+      "published": "2026-11-02T06:45:46.771579-05:00",
+      "opening": "Good morning, Zach. I've had my coffee, I'm settling in next to you, and there's no rush at all. It's Monday, November 2nd, and this is T L D L.",
+      "closing": "That's it for today, Zach. Light jacket for the morning, no umbrella. Closing the laptop now. Talk tomorrow.",
+      "picks": {
+        "greeting": "Open like a friend who has already had coffee and is easing you into the day.",
+        "tone": "curious and enthusiastic",
+        "transition": "Lead each story with why it matters, then the facts.",
+        "signoff": "End quietly and briefly, like closing a laptop."
+      }
+    },
+    {
       "date": "2026-11-01",
       "title": "Overcast Skies and a Wobbly Market",
       "summary": "Zach, the sky today is a big gray lid, and it's staying put. No drama, just overcast from start to finish. Good morning, it's Sunday, November 1st, and this is T L D L.\n\nLet's do the weather properly. It starts cool, in the high 40s around seven, and climbs to the low 50s by ten. By lunchtime...",
@@ -233,28 +251,10 @@
         "transition": "Move between stories the way a person would, with natural connective phrases, never a numbered list.",
         "signoff": "End with a short, warm send-off and one small wish for the day."
       }
-    },
-    {
-      "date": "2026-10-19",
-      "title": "Coffee, Clear Skies, and Math Drama",
-      "summary": "Good morning, Zach. I've already had my coffee, so you don't have to be fully online yet. Just ease in. It's Monday, October 19th, this is T L D L, and I'll do the talking while you get your feet under you.\n\nLet's start outside. Auburn Hills is looking good today. We're heading for a high of 67...",
-      "notes_html": "<p><b>Weather:</b> high 67F, low 43F, overcast.</p><h3>TLDR TECH (2026-10-19)</h3><ul><li><a href=\"https://www.bloomberg.com/news/newsletters/2026-10-18/apple-homeview-with-robotic-arm-new-mac-ipad-mini-nov-6-release-iphone-duo\">Apple's HomeView Offers Tantalizing Preview of a Future Robotic Version</a></li><li><a href=\"https://www.nytimes.com/2026/10/17/business/ai-debt-coreweave-oracle-softbank.html\">Weak Links Start to Show in AI Borrowing</a></li><li><a href=\"https://xenaproject.wordpress.com/2026/10/16/how-to-formalize-all-of-mathematics/\">How to Formalize All of Mathematics</a></li><li><a href=\"https://threadreaderapp.com/thread/2111316522098733078.html\">We discovered something totally unexpected about the neural structure of consciousness</a></li><li><a href=\"https://karrisaarinen.com/posts/someone-behind-the-software/\">Someone behind the software</a></li><li><a href=\"https://maevyn.codes/decoherence\">Decoherence</a></li><li><a href=\"https://terrytao.wordpress.com/2026/10/18/will-it-be-a-golden-age-or-a-dark-age-for-mathematics-and-science/#more-18496\">Will it be a golden age or a dark age for mathematics (and science)?</a></li><li><a href=\"https://www.nytimes.com/2026/10/16/us/math-ai-terence-tao.html\">Why One of the World's Greatest Mathematicians Is on a \u2018War Footing'</a></li><li><a href=\"https://api-docs.deepseek.com/guides/search/\">Search &amp; Fetch</a></li><li><a href=\"https://www.anthropic.com/research/ecdsa-curve-origins\">Claude reveals ECDSA curve origins</a></li><li><a href=\"https://www.polygon.com/apple-indie-games-week-interview/\">7 years later, Apple's gaming push has proven surprisingly resilient</a></li><li><a href=\"https://www.sciencealert.com/a-new-super-ice-is-10-times-stronger-bringing-it-close-to-the-strength-of-concrete\">A New 'Super Ice' Is 10 Times Stronger, Bringing It Close to The Strength of Concrete</a></li><li><a href=\"https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/\">I Love Software Rendering</a></li><li><a href=\"https://www.pinecoder.dev/blog/2026-10-15/my-old-job-is-distant/\">My old job feels very distant now</a></li></ul><h3>IBM</h3><ul><li><a href=\"https://newsroom.ibm.com/blog-open-source-security-signals-q3-2026\">Open Source Security Signals | Q3 2026</a></li></ul>",
-      "file": "episodes/2026-10-19.mp3",
-      "bytes": 3516768,
-      "seconds": 586,
-      "published": "2026-10-19T06:45:33.253899-04:00",
-      "opening": "Good morning, Zach. I've already had my coffee, so you don't have to be fully online yet. Just ease in. It's Monday, October 19th, this is T L D L, and I'll do the talking while you get your feet unde",
-      "closing": "That's the board, Zach. Jacket on early, jacket off by the afternoon, and enjoy that clear, mild stretch from 3 to 6. My small wish for you today: may you find ten quiet minutes outside in that sunshi",
-      "picks": {
-        "greeting": "Open like a friend who has already had coffee and is easing you into the day.",
-        "tone": "energetic, like a sports desk covering tech",
-        "transition": "Move between stories the way a person would, with natural connective phrases, never a numbered list.",
-        "signoff": "End with a short, warm send-off and one small wish for the day."
-      }
     }
   ],
   "tldr_used": {
     "ai": "2026-10-30",
-    "tech": "2026-11-01"
+    "tech": "2026-11-02"
   }
 }
