@@ -1,0 +1,65 @@
+Cold Start, Big Money, Voter Backlash
+
+Good morning, Zach. It's Friday, November 6th, and this is T L D L. Nothing is on fire, and there's plenty worth knowing. Let me take you through it.
+
+Let's start outside. Auburn Hills is going to be a cool, gray November day. The high is 48 and the low is 37. Sunrise was at 7:13, so it's up and mostly clear right now, with temperatures around 38 to 40 through the morning commute. That's the best stretch of the day, and it's completely dry.
+
+Clouds fill in by late morning. Through midday and the afternoon it's overcast and sitting around 40 to 42, with almost no chance of rain. The forecast does say drizzle overall, with a rain chance topping out around 30 percent, but the hour by hour numbers say you'll mostly stay dry. By the evening it slides down to about 37 under a gray sky, with maybe a 7 percent chance of a sprinkle. Sunset is at 5:19, so the drive home gets dark early.
+
+The wind is the part to watch. Gusts can reach about 17 miles an hour, and that makes 40 degrees feel colder. So wear a real jacket, not a light layer, and keep a hat or gloves handy if you'll be standing around outside. An umbrella is optional. I'd leave it in the car, just in case.
+
+Okay, Zach, to the news desk. We've got a big week in AI, and the headline is money and politics colliding.
+
+The biggest story is that Anthropic's IPO is running into some skepticism. The offering is expected to launch the week before Thanksgiving. It was supposed to raise up to 100 billion dollars at a valuation of around 1.5 trillion. Now major investors planning to take part are saying that number probably has to come down. The new expectation is closer to 80 billion raised, at a valuation nearer 1 trillion. Anthropic has avoided locking itself into specific IPO plans, so it can keep its options open.
+
+The reason for the investor chill is politics. Investors have pulled back from AI bets this week, because the midterm elections put several AI skeptics into power. That could slow data center development in the US.
+
+A second piece goes deeper on that. It describes an Election Day revolt, with voters overwhelmingly against the massive compute build-out Silicon Valley has been pushing. If construction stalls, that could rein in AI's rapid growth and hit the wider US economy. It would be especially painful for tech companies that were already struggling to get enough compute. So the real question now is whether the building can keep pace with the ambitions.
+
+Staying with Anthropic, there's also a long profile of its chief executive, Dario Amodei. It traces how his thinking was shaped by two ideas. One is rationalism, which applies dispassionate thinking to the world. The other is effective altruism, which tries to maximize social good with mathematical precision. Those ideas form the foundation of Anthropic, and as the company has grown, his views have become more prominent. It's a good read for a weekend, if you want to know how the person in the middle of all this thinks.
+
+Now to the model and product releases, where things moved fast.
+
+OpenAI rolled out Images 2.6 globally in ChatGPT and Codex. It generates images 50 percent faster than the previous version, and now it can make GIFs. You can adjust the speed, edit individual frames, and share the result. Two new image models, called Flare and Sunburst, are also available through the API.
+
+On the open-weight side, there's a contender called Ripple-65B Preview. It posts state-of-the-art results on TerminalBench 2.1. It beats much bigger open-weight models from the US, including ones listed at 501 billion, 816 billion, 975 billion, and 550 billion parameters. This one is only 65 billion. The team says it was trained for just 32 million dollars, about a tenth of the estimated cost of the previous open-weight leader on agentic coding. It's available on Hugging Face, Together AI, GMI Cloud, and OpenRouter.
+
+Also in the open and near-open world, Tencent launched Hy4, a large language model with visual understanding. It handles fine-grained image processing, complex chart analysis, and mathematical visual reasoning. It can also work with command-line interfaces and graphical interfaces to get everyday tasks done. Tencent says it will release the model weights and system cards in the coming days. And Moonshot's Kimi K3.1 Pro landed, the latest in its 3 trillion parameter class. It's strong at multimodal work, with improvements in coding, 3D creation, and factual accuracy, and it has a million-token context window.
+
+On the coding front, Cognition introduced SWE-2 Flash, a coding model that adds a new mid-training stage before reinforcement learning. And Cartesia's H-Nets learn directly from raw bytes. They match benchmark performance with substantially less training compute.
+
+Related to that, one research paper argues you don't need long context. The researchers found that frontier models do well with shorter contexts and don't lose accuracy. Together AI also introduced Together Compiler, a continual optimization loop that uses high-throughput agents to tune for different inference workloads. And Perplexity's Decisions API can now search the web before it answers.
+
+There were some notable deals and moves, too. OpenAI will acquire Pierre Computer Company, to strengthen Codex's developer tools, including Code Storage and other open-source projects. Meta acquired Conductor, a startup that lets developers run multiple AI coding agents in parallel workspaces. And Cat Wu has joined OpenAI to build reliable agents that keep users in control.
+
+Now, security, which had a busy day.
+
+OpenAI described an autonomous pipeline for discovering, exploiting, and patching vulnerabilities. In a single run, its cybersecurity model validated and generated patches for 948 Linux local privilege escalation vulnerabilities. That's a big number for one run.
+
+On the other side, there's a new Linux vulnerability called sshole. It lets attackers log in over SSH without knowing the password. It affects systems using OpenSSH with musl and without pluggable authentication modules. That's a narrow setup, but it likely still threatens a lot of systems. It's still unclear where the flaw actually lives and what other packages might be affected. If you run Linux devices, it's worth keeping an eye on.
+
+An essay from a16z, called The Exploit Was the Bottleneck, ties these together. The time from disclosure to attack has been shrinking for years, but AI has changed who can operate inside that window, and how fast known bugs get weaponized.
+
+Over in engineering, GitHub detailed its new Git storage architecture. It handles thousands of writes per second, with reads that scale on demand. It can support 5,000 concurrent agents working on one repository while keeping read latency low. It's built for agentic development at the scale of hundreds of millions of developers. Tailscale posted a piece predicting 100 times more programmers in the next few years, though most won't call themselves programmers. Another essay points out that two bits of software dogma, avoid global variables and use a database for state, are partially inconsistent, since a database is basically a store for global variables. A different blog asks for something unusual: it wishes tech companies knew more about the user, and used all the data they collect to make the experience better.
+
+In math, Axiom released a Lean formalization of the entire Stacks Project, the open-source reference underpinning modern algebraic geometry. It's described as the largest integrated, reusable library of formalized mathematics ever built. Researchers and AI agents can import from it directly into new formal proofs. And Google DeepMind's AlphaEvolve, a Gemini-powered coding agent for designing advanced algorithms, has a repository with a minimal implementation. It pairs Gemini's creativity with automated evaluators that check answers. It's already been used to improve Google's data centers, chip design, and AI training.
+
+Also on the detection side, Pangram Image 1.0 is a model that spots AI images and video. It produces a heatmap showing exactly where AI shows up in an image, and it holds up against edits, compression, and low resolution. There's a Chrome extension and API support for images and video.
+
+Now a few stories from beyond the software world.
+
+In science, researchers built a SpudCell, an artificial cell made from lifeless ingredients. It can grow, copy its DNA, divide in two, and start its cycle over. It's still far from a self-sustaining cell, but it could eventually make medicines, foods, and other products easier to produce. The team takes security seriously from the start. Its DNA and proteins are engineered so it can only survive on an exotic diet of chemicals not found in nature. A related essay looks at what it takes to build a physical platform that runs biology experiments, measures them reliably, and generates evidence at the scale AI needs.
+
+In space, Blue Origin announced two big upgrades to New Glenn that cut manufacturing cost and expand payload capacity. The company says its new engine is cheaper, at one quarter the cost, and higher performing. It has started test firing that engine, which will eventually replace the BE-4 on the first stage. It's also developing a hydrogen-oxygen third stage for an extra kick. The long-term aim is more than 1,000 launches a year.
+
+Meanwhile, Elon Musk wants to combine Starlink with mobile antennas, fiber connections, and other ground infrastructure. The idea is that regular smartphones could tap into both Earth and space signals seamlessly. That would put real pressure on the big US carriers.
+
+One for the tinkerers. The Hackintosh scene, running macOS on non-Apple hardware, faded after Apple moved to its own chips. AI has revived it, with an explosion of activity in recent weeks. Examples include macOS 27 on a Snapdragon laptop, iOS 17 on a Nintendo Switch OLED, and a macOS 27.2 beta on a small ARM board.
+
+Now, the IBM front.
+
+IBM, Oak Ridge National Laboratory's Quantum Science Center, and AMD unveiled a new co-design platform for quantum error correction. It integrates quantum and high-performance computing. Researchers have made real progress on error correction in recent years. The challenge now is scaling it, and that takes a lot more classical computing. The first deployment places IBM's quantum computers, including the 120-qubit Quantum Nighthawk, alongside ORNL's Umbra supercomputer. Umbra runs on AMD Instinct MI355X GPUs and fifth-generation AMD EPYC CPUs. That AMD hardware provides the classical foundation for error correction research, decoder optimization, and software orchestration. It's tied to the Department of Energy's Quantum Genesis Mission and its Q Competition.
+
+And Confluent, now an IBM company, introduced its Streamhouse architecture. The idea is to keep business context current for AI agents, applications, and analytics. Lightning Tables are now generally available on AWS. That completes a five-pillar platform covering Stream, Connect, Process, Govern, and now Query. The problem it targets is that data lakes and warehouses were built for batch reporting. Agents need to make decisions with information from systems that update at different times, and they can act on stale or conflicting data. Accenture is already using a Streamhouse approach to connect data across its global business. Confluent sits at the center of IBM's data strategy, and it's a nice fit for the agent conversation you're likely having with clients.
+
+That's the show, Zach. Jacket on, mind the wind, and no umbrella needed. One last thought: I'd tell you a joke about a database being a global variable, but you'd hear it everywhere. Have a great Friday. Talk tomorrow.
