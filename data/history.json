@@ -1,6 +1,24 @@
 {
   "episodes": [
     {
+      "date": "2026-11-09",
+      "title": "Crisp Start and Quantum Chicago",
+      "summary": "Zach, it's a crisp one out there. You're starting the day at about 38 degrees under clear skies, so that first walk to the car has some bite to it. Stick around and I'll tell you how the rest of the day shapes up.\n\nGood morning, Zach. It's Monday, November 9th, and this is T L D L.\n\nLet's finish...",
+      "notes_html": "<p><b>Weather:</b> high 54F, low 38F, overcast.</p><h3>TLDR TECH (2026-11-09)</h3><ul><li><a href=\"https://www.bloomberg.com/news/newsletters/2026-11-08/apple-explores-turning-siri-ai-into-chatgpt-dots-like-agent-ios-28-shake-up\">Apple CEO Presses Software Chief to Pursue More Ambitious AI Strategy</a></li><li><a href=\"https://www.nytimes.com/2026/11/08/technology/nvidias-investigation-jensen-huang.html\">What to Know About Nvidia's Investigation of Its CEO</a></li><li><a href=\"https://scottaaronson.blog/\">Aaronson-Ambainis Conjecture proved! (By AI, of course)</a></li><li><a href=\"https://www.cnbc.com/2026/11/08/amazon-home-robot-fauna-sprout.html\">Amazon's Astro home robot has fans but looks destined for the \u2018trash heap.' Why it's trying again</a></li><li><a href=\"https://www.seangoedecke.com/llms-are-terrible-at-designing-ai-systems/\">LLMs are terrible at designing AI systems</a></li><li><a href=\"https://www.natemeyvis.com/programming-and-fatigue/\">Programming and fatigue</a></li><li><a href=\"https://hrih.si/articles/the-jevons-paradox-has-a-second-half/\">The Jevons paradox has a second half</a></li><li><a href=\"https://thelastsoftwareengineer.substack.com/p/ai-is-causing-signal-collapse-everywhere\">AI Is Causing Signal Collapse Everywhere All at Once</a></li><li><a href=\"https://martinalderson.com/posts/the-great-software-ip-writedown/\">The great software IP writedown</a></li><li><a href=\"https://www.seangoedecke.com/working-with-designers/\">Working with designers</a></li><li><a href=\"https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos\">AI broke the cybersecurity world. What's next?</a></li><li><a href=\"https://sergeykuhne.com/blog/fighting-ai-brain-fry\">How I'm fighting the AI Brain Fry</a></li><li><a href=\"https://www.wsj.com/economy/jobs/is-ai-taking-white-collar-jobs-what-the-latest-numbers-tell-us-dd31b115\">Is AI Taking White-Collar Jobs? What the Latest Numbers Tell Us</a></li><li><a href=\"https://mceglowski.substack.com/p/how-long-can-life-wait\">How Long Can Life Wait?</a></li></ul><h3>IBM</h3><ul><li><a href=\"https://newsroom.ibm.com/blog-ibm-sports-tech-startup-challenge-culminates-at-web-summit-lisbon-2026\">IBM Sports Tech Startup Challenge culminates at Web Summit Lisbon 2026</a></li><li><a href=\"https://newsroom.ibm.com/2026-11-06-ibm-unveils-its-most-advanced-quantum-computer-in-chicago,-marking-a-milestone-for-illinoiss-quantum-future\">IBM Unveils Its Most Advanced Quantum Computer in Chicago, Marking a Milestone for Illinois's Quantum Future</a></li><li><a href=\"https://newsroom.ibm.com/2026-11-05-oak-ridge-national-lab,-ibm,-and-amd-launch-new-co-design-platform-for-quantum-error-correction\">Oak Ridge National Lab, IBM, and AMD Launch New Co-Design Platform for Quantum Error Correction</a></li></ul>",
+      "file": "episodes/2026-11-09.mp3",
+      "bytes": 3814848,
+      "seconds": 635,
+      "published": "2026-11-09T06:45:35.744583-05:00",
+      "opening": "Zach, it's a crisp one out there. You're starting the day at about 38 degrees under clear skies, so that first walk to the car has some bite to it. Stick around and I'll tell you how the rest of the d",
+      "closing": "That's the show, Zach. Jacket on this morning, take it off by lunch, and no umbrella needed. I'd tell you a joke about the new Siri, but she'd just ask me to repeat the question. Have a great Monday. ",
+      "picks": {
+        "greeting": "Open with the weather as the hook, then the greeting.",
+        "tone": "upbeat and warm",
+        "transition": "Use short reactions between stories (a quick opinion, a question, a raised eyebrow) as transitions.",
+        "signoff": "End with a light joke and a sign-off."
+      }
+    },
+    {
       "date": "2026-11-08",
       "title": "A Clear Sunday and a Crowded Newsfeed",
       "summary": "Good morning, Zach. It's Sunday, November 8th, and this is T L D L. Whatever you're planning for today, big or small, I hope it goes easier than you expect. You've got more in the tank than you think, and a slow Sunday is allowed to be a good one.\n\nLet's start with the weather in Auburn Hills. It's...",
@@ -233,28 +251,10 @@
         "transition": "Lead each story with why it matters, then the facts.",
         "signoff": "End with a light joke and a sign-off."
       }
-    },
-    {
-      "date": "2026-10-26",
-      "title": "Mondays Wearing a Blazer",
-      "summary": "Good morning, Zach. I have a theory that Monday is just Sunday in a blazer, trying to look like it has its life together. It doesn't fool me, and I don't think it fools you either. It's October 26th, this is T L D L, and I'll keep an eye on the blazer while you get settled.\n\nLet's start with the...",
-      "notes_html": "<p><b>Weather:</b> high 64F, low 47F, overcast.</p><h3>TLDR TECH (2026-10-26)</h3><ul><li><a href=\"https://www.nytimes.com/2026/10/23/technology/personaltech/iphone-duo-review-tablet-smartphone.html\">Review of iPhone Duo: A New Chapter That Redefines a Smartphone's Purpose</a></li><li><a href=\"https://www.bloomberg.com/news/features/2026-10-22/jane-street-hrt-are-spending-billions-to-win-in-ai-era\">Jane Street and Rivals Are Now Fighting for AI Power as Well as Pace</a></li><li><a href=\"https://www.theguardian.com/science/2026/oct/25/spacex-access-sensitive-tracking-data\">US military gives Elon Musk's SpaceX access to sensitive tracking data</a></li><li><a href=\"https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/\">Neural chip decodes interactions between brain regions</a></li><li><a href=\"https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html\">The State of Context Engineering</a></li><li><a href=\"https://danluu.com/ambitious/\">We should be more ambitious with the software we build</a></li><li><a href=\"https://www.nytimes.com/2026/10/23/opinion/ai-computer-chips-semiconductor-arizona-industry.html\">The Factory in Phoenix That Could Save American Manufacturing</a></li><li><a href=\"https://buildingslack.com/salesforce-part-two/\">Salesforce \u2013 Part Two</a></li><li><a href=\"https://cap.so/blog/rebuilding-cap-in-gpui\">A technical deep dive into Cap's migration to GPUI</a></li><li><a href=\"https://blog.alexewerlof.com/p/rise-and-fall-of-jev-eval-hype-vs-llm\">The rise and fall of Jev hype</a></li><li><a href=\"https://longnow.org/ideas/attention-ai-pace-layers/\">Attention is All You Need</a></li><li><a href=\"https://maggieappleton.com/planning-agents\">Planning with Agents: Divided Worlds, Boundary Objects, and Thicker Interfaces</a></li><li><a href=\"https://contraptions.venkateshrao.com/p/cognitive-mercantilism\">Cognitive Mercantilism</a></li><li><a href=\"https://minimaxir.com/2026/10/cheap-llms/\">OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?</a></li></ul><h3>IBM</h3><ul><li><a href=\"https://newsroom.ibm.com/2026-10-22-ibm-and-scuderia-ferrari-hp-expand-ai-powered-fan-experience-ahead-of-the-united-states-grand-prix\">IBM and Scuderia Ferrari HP Expand AI-Powered Fan Experience Ahead of the United States Grand Prix</a></li></ul>",
-      "file": "episodes/2026-10-26.mp3",
-      "bytes": 3650256,
-      "seconds": 608,
-      "published": "2026-10-26T06:45:31.764977-04:00",
-      "opening": "Good morning, Zach. I have a theory that Monday is just Sunday in a blazer, trying to look like it has its life together. It doesn't fool me, and I don't think it fools you either. It's October 26th, ",
-      "closing": "That's the show, Zach. Light jacket on for the cool, clear morning, off by lunch, and no umbrella needed. The one thing worth keeping from today is that context engineering is hard in ways that won't ",
-      "picks": {
-        "greeting": "Open playful, with a light, harmless running joke that you invent on the spot.",
-        "tone": "conversational and gently sarcastic",
-        "transition": "Lead each story with why it matters, then the facts.",
-        "signoff": "End with a one-line recap of the single thing worth remembering today."
-      }
     }
   ],
   "tldr_used": {
     "ai": "2026-11-06",
-    "tech": "2026-11-08"
+    "tech": "2026-11-09"
   }
 }
