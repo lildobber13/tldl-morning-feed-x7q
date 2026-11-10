@@ -1,0 +1,55 @@
+Anthropic IPO Nears, Costs Take Center Stage
+
+Zach, morning. I'm just stepping through the door with a stack of headlines under my arm, and I'll set them down as we go. It's Tuesday, November 10th, and this is T L D L.
+
+Let's start outside. Today looks calm and dry in Auburn Hills. You're starting out around 44 degrees, climbing to about 48 by ten, so the morning is cool but not harsh. Midday is the best stretch. Temperatures reach the high 50s and touch 61, which is the high for the day. The afternoon holds in the upper 50s to 61, and the hour by hour look stays clear the whole way. Evening settles back to around 48 to 50, with a low near 43 overnight. Rain chance is basically zero, about 1 percent at the very most. The one thing to notice is the wind, which can gust up to around 15 miles an hour. That makes it feel cooler than the number. Sunset is at 5:14, so the drive home may be in the dark. My suggestion is a light jacket for the morning, which you can shed by lunch, and no umbrella.
+
+Now the news, and money is the thread running through a lot of it today.
+
+The biggest story is the funding frenzy and the nerves around it. OpenAI has reportedly raised 11 billion dollars at a valuation of 1.25 trillion dollars. The round could grow to 20 billion before it closes. But that's still short of the 30 billion dollar target that was reported earlier, and it comes as investors get more uncertain about AI valuations.
+
+That uncertainty shows up even more clearly at Anthropic. According to the Wall Street Journal, Anthropic is preparing to push ahead with its IPO, with shares expected to start trading by the end of next week. Investors were eyeing a target valuation around 1.5 trillion dollars last week, but some major investors are now pushing for something lower. Anthropic could still delay and wait for better conditions, but doing that could spark panic in the market. Even before the recent volatility, enthusiasm for AI names was fading, because of the growing investment required and the lack of clarity on the payoff. If you only remember one story today, make it this one.
+
+Nvidia is having a rougher morning too. Investigations into whether Nvidia misled investors are underway, and there's now a race among lawyers to sue the company. Separately, there's a timeline of the suspected spy drama around CEO Jensen Huang. The short version is that Huang told President Trump he had no idea that Alice Huang was a spy.
+
+Nvidia also has competition on the chip side. Google is rolling out two new versions of its Tensor Processing Units. The 8tx is aimed at secure, confidential work, for customers like government agencies and companies in regulated industries. The 8i Max is built for AI applications that need long context windows. Google's TPU business has been lucrative, with clients including Apple, Meta, and Oracle.
+
+A couple of smaller business pieces fit here. One analysis compares Anthropic and Meta and argues that if Meta's AI bet fails, it still has its ads business to fall back on. Anthropic doesn't have that cushion. A founder's post on how Product Hunt almost died is mostly about fundraising. Product Hunt needed an acquisition to survive, and the advice is to assume each funding round will be ten times harder than the last. It also says to build a wide funnel, because it only takes one yes. And in the funding world, Warp Sciences raised 215 million dollars in a Series A led by Lightspeed, to speed up drug discovery with AI and robotics.
+
+The second theme is AI building AI, and it's getting a lot of attention. One piece reports that Anthropic says it may soon meet its own threshold of dramatically accelerated progress due to AI. Some researchers think it has already crossed it. The author calls it possibly the biggest AI risk humanity has faced, and says the industry isn't prepared to handle it safely.
+
+A counterweight comes from a post on OpenAI's report about automating its own research. It shows that models still struggle with OpenAI's actual R and D work. Agents are solving more complex tasks for researchers, but reliability is low, and the post explores why.
+
+Related to that, there's a first-person account from a research engineer who spent a year at Meta working on recursive self-improvement. The job is teaching agents to train the next generation of models and to evolve themselves. The post also covers how to get into AI research and which skills matter. Another research piece asks whether language models can redesign themselves as they train. It finds they can, by putting coding agents into the training loop to rework their architectures and tackle limits like compositionality and generalization.
+
+On the practical side, Anthropic published a look at how agents build long-term memory. They capture experiences during interactions, then reorganize them during idle periods in a process the post calls dreaming. It also looks at how different memory components help organize and retain useful information.
+
+Then there's a long essay on Claude Fable 5.2 and what the author calls jagged AGI. The claim is that the model is almost as good as most human experts at most intellectual tasks you can do on a computer. It still makes mistakes and needs human guidance. But it's jagged, meaning there are important areas where it falls well behind people, and the author says that's no longer about simple errors or hallucinations. The author thinks models will soon cross the line into artificial general intelligence.
+
+Related to that, there's a postmortem on AI Frontiers, a group inside Microsoft Research that tried to organize coherent research, much of it on making agents work. It was reorganized into Microsoft AI in early September.
+
+Third, tools and products, which move fast. OpenRouter launched a new generation of its Auto Router, which it says beats the old one by up to four times. It comes with Auto Code, a router built for coding work. Both choose models by weighing eleven factors about each request, along with live pricing, provider health, and cache status, and users can apply their own governance policies.
+
+There's also a tool called Ace, for building software together, locally. Developers can work with agents and teammates from their own machines, without exposing anything to the public internet. One caution from the description: agents run with the privileges of the user running the host. They can execute shell commands and change files beyond the project. So it's worth thinking about that.
+
+Storybook 11 is in beta. It adds official skills and headless command line tools so agents can iterate on their own, in a smaller package with faster context delivery. And for anyone who records screens, a tool called chrome-capture takes advantage of a native MP4 tab recorder in Chrome 153 and up. It records tabs at 60 to 120 frames per second, up to 2160p, with tab audio, and you can start and stop whenever you like.
+
+Meta introduced Spaces in its Muse app. You describe what you want, like a gift tracker, a game, or a project planner, and it builds you a personalized interactive experience. And Alphabet's Wing is building a new 15,000 square foot factory in Fort Worth, Texas, with capacity for tens of thousands of delivery drones a year.
+
+There's also a short thought piece on the future of software. It argues that software will eventually stop meaning anything, because everything digital will be created instantly, on demand.
+
+Fourth, science, which has some real highlights. A research system at PSI, built on an Anthropic model, has proven the Aaronson-Ambainis conjecture, a key open problem in quantum complexity theory. The result shows that quantum computers aren't exponentially faster than classical ones on random inputs, which settles a big question about quantum speedups.
+
+In medicine, researchers developed an mRNA therapy that wakes up heart muscle cells so they divide and help repair damage. In mice, it produced stronger heartbeats after a heart attack. It's not a cure for heart disease, but even small gains in heart function have been tied to lower mortality. The effect is short-lived and localized, and it isn't expected to permanently change the heart cells. It needs trials in larger animals before humans.
+
+On the AI and lab side, OpenAI introduced BioBasicsBench, which tests how well AI interprets raw experimental data across 100 routine wet-lab tasks. And Anthropic has a long research post on using Claude to play EVE Online and EVE Frontier, to test complex decision-making.
+
+Last, a few big-picture ideas. Patrick Collison asks what a positive AI future looks like, including how work, resource allocation, and human control would function. He also warns that if you give moral worth to vastly many AIs, utilitarian math could swamp human interests. Another essay says that when AI is the main producer of content, difference becomes the scarce thing. But cheap variation isn't the same as valuable difference. A related post argues firms should be built around human experts and AI agents from day one. And a quieter piece says writing is a thinking tool, because language lets us externalize some of our thinking and writing lets us externalize even more.
+
+Now the IBM front. Apptio, an IBM company, announced new connections to leading frontier AI systems so enterprises can track AI costs and usage next to the rest of their technology spend. It also expanded AI cost management across its portfolio, to help organizations forecast spending, compare costs against business results, and decide which AI investments to scale. IBM cited a June 2026 IBM Institute for Business Value study. It found that 85 percent of surveyed technology executives lack full visibility into real-time AI spending. IBM is also adding MCP servers and AI-assisted analysis, so teams can reach their technology financial data through the AI tools they already use. It also covers planning AI spending, measuring business value, and understanding Kubernetes network costs. Given the investor jitters we just talked about, the timing is neat, and that cost visibility theme is likely to come up in your client conversations.
+
+The other item is the IBM Sports Tech Startup Challenge, which wraps up at Web Summit Lisbon. It launched there last year to spotlight growth-stage startups building AI-powered solutions for the business of sports. The final showcase is today, November 10, with five startups pitching to industry leaders, investors, and sports executives. Select startups may be invited to an invitation-only Prize Challenge the next day.
+
+That's the show, Zach. Light jacket, mind the wind, no umbrella. And the one thing worth remembering today: AI's money story is getting wobblier, with Anthropic's IPO and OpenAI's smaller raise both showing investors asking where the payoff is.
+
+Talk tomorrow.
