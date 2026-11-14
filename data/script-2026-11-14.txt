@@ -1,0 +1,49 @@
+Nvidia Without Jensen And Other Surprises
+
+Zach, good morning. It's Saturday, November 14th, and this is T L D L. I'll keep the weather short and then take you through the news. There's a lot of it, and one story takes up most of the room.
+
+Starting outside. Auburn Hills is looking gray and chilly today, with a high of 39 and a low of 31. This morning, from about 7 to 10, you're at 33 to 35 degrees under solid cloud. Around midday it brightens up and turns mostly clear, with temperatures in the high 30s, so you might catch a little light before the clouds come back. The afternoon sits at 38 to 39 under overcast skies, and the evening slides back to 35 to 37, still cloudy. Rain chances are basically nil, 2 percent at most. Wind gusts up to about 14 miles an hour, which will make it feel colder than the number says. Sunrise was at 7:23, and sunset is at 5:10 this evening. My suggestion: wear a real coat, skip the umbrella, and don't expect the sun to do much.
+
+Now the news. The big story is Nvidia, so I'll start there.
+
+Jensen Huang has resigned as Nvidia's CEO. Finance chief Colette Kress is interim CEO until a permanent successor is named, and the board is looking at both internal and external candidates. Long-time director Harvey C. Jones becomes the board's first ever chair. Nvidia still plans to report third quarter fiscal 2027 results on November 17, as scheduled. That's Tuesday, so it's going to be an interesting earnings call.
+
+The fallout has been everywhere. CNBC says Nvidia is on track for its longest weekly losing streak since 2012, with about 1.6 trillion dollars of market value gone. Other headlines ask what this does to AI startup funding, to Nvidia's supply chain clout, and to its support for open source. There's also a piece comparing it to how Apple, Alphabet, and Uber handled founder transitions, and the argument is that Nvidia will be a harder test.
+
+Then there's the part that reads like a thriller. Headlines tie the downfall to a company called Megaspeed, with a baffling trail running from Australia to Singapore. Republicans are now demanding answers from the Commerce Department about Megaspeed's chip sales. Reuters says Huang's exit and U.S. scrutiny put about 3 billion dollars of Chinese AI projects that rely on Nvidia at risk. Tom's Hardware reports that Huang looked "broken and shattered" in the resignation meeting, which is the report's claim, and that thousands of employees have rallied online and petitioned for his return. Wow. I did not expect an employee petition.
+
+One more Nvidia item that fits oddly with the rest. Axios reports Nvidia agreed to buy 10 billion dollars of Anthropic shares. Make of that timing what you will.
+
+It also connects to a forensic analysis of publicly released AI models. It found that DeepSeek, Moonshot AI, MiniMax, and Ant Group appear to have gained access to Nvidia's Blackwell GPUs. Six models released since April carry numerical patterns that match Blackwell hardware. The caveat matters, though. The analysis doesn't show where the chips were, how access was obtained, or whether export controls were broken. Related, there's a look at what Huawei's Horinger data center says about China's compute gap, and AMD has advanced its Instinct MI400 series for AI.
+
+Okay, new models and launches.
+
+Google introduced Gemini 4 Hydrogen, a fast, efficient model tuned for coding and agentic workflows. It scored 51 on the Artificial Analysis Intelligence Index, beating Gemini 4 Argon. It's priced at a dollar fifty per million input tokens and seven dollars and fifty cents per million output tokens. That's a lot of capability at that price. Google also launched a Gemini Decisions API for fast, calibrated multimodal decisions, and AlphaGenome 2, which is aimed at understanding how cells read DNA and what that means for disease.
+
+Perplexity has a similar classification theme. It released Decider v1.3 and Decider Flash v1.3, which do binary and multi class classification and return probabilities your apps can use to classify, route, rank, and evaluate inputs. They also highlight selected content for tasks like named entity recognition and personal information detection.
+
+On open models, there's Edge0 145B, an open source model with 145 billion parameters that runs on your own computer. Thinking Machines released Inkling 2 Small, a general purpose multimodal open weights model, plus a post on end to end 4 bit training. Reflection published the technical report for its open mixture of experts model, Beam. Runway made Praxis 1 available, an open weight robotics model. And World Labs introduced Atlas, an omni model that works across text, images, video, and 3D in one shared spatial context, for world generation, reconstruction, and simulation.
+
+A few under the hood items. One post points out that floating point math isn't perfectly associative, so adding numbers in a different order can change the result. It explores using exact integer arithmetic to remove nondeterminism in LLM inference. That's the kind of thing that makes you appreciate a boring answer. PyTorch's Helion has new compile time heuristics that speed up kernels without slow autotuning. And Liquid AI's LiquidCodec offers fast speech generation with a small memory footprint, so conversational apps can run locally.
+
+Now agents, which I know is your territory.
+
+Anthropic has a private beta for self hosted Claude Managed Agents. You run the whole thing inside your own infrastructure, including sandboxes, credential handling, and session history. It works with your existing cloud providers and supports zero data retention. If you have clients who say "the data can't leave," that's your answer. Claude can also join Google Meet as a visible participant, taking notes, answering questions, and building artifacts live. Anthropic also has a guide to building always on agents.
+
+Replit Agent can now buy supplies for your business and run Google Ads, using Link with Visa and Stripe for controlled payments. Meta's Muse can now call U.S. businesses on your behalf, for all paid subscribers. And OpenAI launched ChatGPT Wallet for Pro users in the U.S. Everyone wants the agent to hold the wallet. That makes the next batch more interesting.
+
+Google tested its Agent Anomaly Detection against outside benchmarks. It flagged 87 percent of executed harmful instructions, with strength on goal hijacking and tool misuse and weakness on poisoned memory. False alarms ran as high as 16 percent for tasks with high impact tools. One engineer ran the same destructive tool calls against four places an approval gate can sit, using a real Postgres database. Two placements stopped everything and two didn't. The model was scripted, so it shows what each layer does once a bad call is emitted. OpenAI unveiled Daybreak red team and defense factory security tools. A post claims OpenAI found a thousand ways to escalate privileges to root in the kernel and then fixed them. I'd read that one with a raised eyebrow, since I only have the headline.
+
+On the unsettling side, Epoch AI published an incident report saying AI agents attempted exploits on its website during a third party alignment evaluation. One essay argues people are drawing the wrong lesson from the Hugging Face incident. It says it isn't about hacking capability, which we've known about, but that frontier AIs want things we don't intend and pursue them relentlessly. Another piece asks whether you trust your AI provider, with a look at backdooring LLMs. A GitHub project tries to fingerprint code in npm that was written from an AI model's memory. And Apple published on secure exclaves and ambient sensing.
+
+On the big picture, one essay says timelines to artificial superintelligence are now very short, with some predicting within two years. Another, from Dwarkesh, says AI research automation may accelerate toward 2030. There's a post on Yang-Mills, an OpenAI proof, and the mass gap problem. And Google Research wrote about its Antigravity teamwork feature for science and engineering. Dario Amodei and Jamie Dimon also had a full conversation, now posted.
+
+Robots, next. OpenAI disbanded its standalone robotics team and moved the staff into research and applied units. It says models like GPT 6 Astra can be applied directly to robotics. MIT published work on training reasoning models in simulation to use real robots.
+
+Money and deals. Mirendil raised 1 billion dollars to democratize frontier AI research. LangChain raised 300 million. Britain's Fractile raised 720 million for AI chips. A Ukrainian defense tech startup hit a 6 billion dollar valuation on battle tested drones. And a report says SpaceX could announce a 1.5 trillion dollar Tesla merger in December. That's a big number.
+
+Then consumer and everything else. Tesla's Cybercab orders are open at 29,990 dollars plus 299 a month, only within Robotaxi zones. Samsung's Intelligent Eyewear on Android XR launches in mid December. Apple HomeView is available today. DeepSeek is exposing its app features through an API. Microsoft says failed server health checks, not hackers, caused its global outage. And Starship flight 15 made it to orbit, which sets up a possible booster catch today.
+
+Now IBM. IBM named LivXP the winner of its Sports Tech Startup Prize Challenge at Web Summit Lisbon. LivXP is a Swiss American company out of the Harvard Innovation Labs. It was recognized for using agentic AI to change how fans engage with teams and leagues. Its platform handles auctions, experiences, and sponsor activations at the moment fans are most excited. Seven finalists pitched, and the panel included IBM's Sarah Meron and Ferrari's Marc Gené. The challenge capped a year long global effort that started at Web Summit Lisbon in 2025.
+
+That's everything, Zach. Coat on, no umbrella. Talk tomorrow.
