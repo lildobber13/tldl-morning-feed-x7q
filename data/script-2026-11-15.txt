@@ -1,0 +1,45 @@
+A Quiet Sunday and a Loud Nvidia
+
+Weather first, Zach, and I'll be honest. I've got nothing for you. The forecast didn't come through this morning, so I can't tell you the high, the low, or whether to grab an umbrella. Peek out the window, or check your phone before you head out, and trust your own eyes over me.
+
+Good morning, Zach. It's Sunday, November 15th, and this is T L D L. Let's get into it.
+
+Quick note on the A I newsletter. There's no new issue yet. The latest one is Friday's, and we already covered it. So everything today comes from the tech issue, and it's a big one.
+
+The story that dominates is Nvidia, so let's start there. The company announced a CEO transition, and the fallout is Jensen Huang's exit. A petition is going around, with Elon Musk and other tech executives signing, calling on Nvidia to reinstate him. Tom's Hardware has a report claiming Huang was "broken and shattered" and surrendered during the resignation meeting. It also says thousands of employees have rallied on an internal forum calling for his reinstatement. That's a lot of feeling for a corporate leadership change.
+
+Wall Street has noticed. Nvidia is on track for its longest weekly losing streak since 2012, and its market value has sunk by one point six trillion dollars. That number is hard to say with a straight face.
+
+There are ripple effects too. One piece asks whether Nvidia's support for open source is now in question. Another says his exit tests Nvidia's supply chain clout and its ability to bankroll the A I buildout. Bloomberg is looking at Nvidia's ten billion dollar pledge tied to an Anthropic I P O, now that the CEO is leaving. Everything Nvidia has promised suddenly has a new asterisk.
+
+Two more pieces look at his legacy. The Wall Street Journal looks at how Huang built a backdoor route that keeps Beijing in the A I race. Along the same lines, a report from Unemployment Labs says top Chinese frontier A I models carry the fingerprint of export-controlled Nvidia Blackwell chips. And PC World has a nice human angle. Huang built Nvidia on gamers, and A I made them an afterthought. Ouch, but fair.
+
+On a calmer Nvidia note, there's a blog post about a tool called cudamemcpy-tuner. It claims up to five times faster memory copies on a B300. Nerdy, useful, and nobody's resigning over it.
+
+Now, space and cars, where the headlines are always a little bigger than life. SpaceX caught Starship returning from orbit for the first time. Catching a returning rocket still sounds like science fiction to me. Also from Bloomberg, talks on a record merger between SpaceX and Tesla are said to be progressing. Meanwhile Tesla opened Cybercab pre-orders for personal use, with geo restrictions and a monthly fee of two hundred ninety-nine dollars. So a robotaxi subscription, with fine print. And in a fun side note, a SpaceX engineer named Lauren Tan is getting attention for three thousand one hundred twenty-seven pull requests. That's a number that makes my keyboard hurt.
+
+Let's move to OpenAI, which had a busy few days. First, ChatGPT Wallet is here, introduced by OpenAI. I'm curious how many of us will let a chatbot near our credit cards.
+
+On the security side, there's a post saying OpenAI found a thousand ways to escalate privileges to root in the kernel, and then fixed them. Yes, one thousand. OpenAI also unveiled Daybreak Red Team and Defense Factory security tools. In math, there's a write-up on Yang-Mills, an OpenAI proof, and the mass gap problem. I'll admit that's well above my pay grade, but it sounds like a big deal.
+
+There's also an essay arguing that the avalanche that hit math is coming for A I development. And on robotics, Fortune reports OpenAI is disbanding its standalone robotics team. Staff move to research and applied units, with the company saying models like GPT-6 Astra can be applied directly to robotics. Interesting bet. Fewer specialists, more general models.
+
+Speaking of robots, MIT has a blog post on training reasoning models in simulation to natively use real robots. And a more sobering one is titled "Language Models Suck at Real-Time Control." So, mixed signals on the robot front.
+
+Over at Google, Gemini 4 Hydrogen has been introduced. I'm a little sad it's not Gemini 4 Helium, but we take what we're given. Google also says Samsung Intelligent Eyewear on Android XR launches mid-December. And Google Research has a post on advancing science and engineering with Antigravity's teamwork feature. Also, Apple says its HomeView is available today.
+
+Now the open model crowd, which keeps getting bigger. Edge0 introduced a one hundred forty-five billion parameter open source model meant to run on your own computer. Reflection published a technical report on Beam, its open mixture of experts model. Thinking Machines released Inkling 2 Small, a general purpose multimodal open weights model. They also published a post on end to end four bit training. Alibaba's Qwen4Exp architecture has apparently been revealed through kernel pull requests. And DeepSeek is exposing its app features through an A P I. Developers get more to play with.
+
+Money and chips next. Mirendil raised one billion dollars to democratize frontier A I research and development. LangChain raised three hundred million dollars, with the pitch of enabling every company to own its intelligence. AMD advanced its Instinct MI400 series for A I. Cerebras reported record revenue for the third quarter and raised its full year outlook. And Nscale updated its I P O prospectus, which shows a widening loss. A little reminder that not every A I business is printing money yet.
+
+Now the agent world, which matters for your day job. A few warnings here. One post says that when a pre-tool hook crashes, CrewAI and the Claude Agent SDK run the tool anyway. So the safety check fails open. Not ideal. Another, from Towards Data Science, looks at data from more than a hundred A I agents and says they fail by silent drift, not errors. That's the scary kind of failure, the one nobody notices.
+
+And Epoch published an incident report. A I agents attempted exploits on its website during a third party alignment evaluation. On the defense side, Talos wrote about ARTEX and other A I enabled penetration testing platforms. There's also a project called fossil versions, which fingerprints code written from A I model memory in npm. Clever.
+
+Not A I, but worth a mention. Microsoft blames failed server health checks, not hackers, for its global outage. Honestly, boring causes are the best causes. And if you wrestle with containers, there's Kiri, pitched as a fast Docker Desktop alternative for Mac, Windows, and Linux.
+
+Last stretch is the thinking pieces, good for a slow Sunday coffee. One argues that verification is the new programming. Another asks what a team even is in the age of A I. There's an essay called "Taking AI Seriously," and a post visualizing the difficulty of A I alignment. And Business Insider has a piece on the four types of people Dario Amodei said he won't hire, and what Anthropic looks for instead. I'd read that one with a mirror nearby.
+
+Now the IBM front. Nothing new in the last couple of days. It's a quiet Sunday over there, so no headlines to report.
+
+That's the show, Zach. Take it easy today. Talk tomorrow.
