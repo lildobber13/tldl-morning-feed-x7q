@@ -1,6 +1,24 @@
 {
   "episodes": [
     {
+      "date": "2026-11-16",
+      "title": "A Quiet Monday Start With Big Headlines",
+      "summary": "Zach, good morning. I've had my coffee, I'm settled in, and there's no rush. It's Monday, November 16th, and this is T L D L. Let's ease into the week together.\n\nFirst, the weather. The forecast didn't come through this morning, so I don't have a high, a low, or any word on rain or wind for Auburn...",
+      "notes_html": "<h3>TLDR TECH (2026-11-16)</h3><ul><li><a href=\"https://www.cnbc.com/2026/11/16/nvidia-jensen-huang-return-tech.html\">Tech world's calls for Jensen Huang to return to Nvidia are growing</a></li><li><a href=\"https://www.bloomberg.com/news/newsletters/2026-11-15/apple-siri-ai-app-integrations-power-smart-glasses-iphone-duo-2-face-id-plan\">Apple Bets on Siri AI Apps as the Main Draw for Its Smart Glasses</a></li><li><a href=\"https://konvoy.beehiiv.com/p/one-proton-away\">One Proton Away</a></li><li><a href=\"https://www.bloomberg.com/news/articles/2026-11-14/spacex-to-attempt-first-full-recovery-of-new-starship-rocket\">SpaceX Catches Starship in Midair at Texas Site After Space Trip</a></li><li><a href=\"https://alfonsocampodonico.com/posts/making-a-programming-language\">Making a programming language</a></li><li><a href=\"https://claude.com/resources/articles/building-always-on-agents\">Building always-on agents</a></li><li><a href=\"https://danni763618.typeform.com/to/H1tYViME\">Become a founding member of TLDR's AI community (2 minute form)</a></li><li><a href=\"https://www.dwarkesh.com/p/rsi\">The avalanche that hit math is coming for AI development</a></li><li><a href=\"https://www.stripeeconomics.com/p/ai-work-from-home-and-the-young-graduate\">AI, work from home, and the young-graduate job market</a></li><li><a href=\"https://www.bloomberg.com/news/articles/2026-11-13/china-fires-researchers-after-child-dies-in-gene-editing-trial\">China Fires Researchers After Child Dies in Gene-Editing Trial</a></li><li><a href=\"https://johnhempton.substack.com/p/ai-and-hiring-bad-for-employees-bad\">AI and hiring: bad for employees, bad for employers</a></li><li><a href=\"https://www.cnet.com/health/apple-launches-ai-health-app-study/\">Apple Launches New App to Study How People Use AI for Health</a></li><li><a href=\"https://blog.cosmos-institute.org/p/recursive-self-improvement\">Recursive, Self, Improvement</a></li><li><a href=\"https://benjamintodd.substack.com/p/ai-trend-extrapolation\">Trend extrapolation gets us to AGI in 1-4 years</a></li><li><a href=\"https://techcrunch.com/2026/11/14/tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restrictions-and-a-299-monthly-fee/\">Tesla opens Cybercab pre-orders \u2018for personal use,' with geo restrictions and a $299 monthly fee</a></li></ul><h3>IBM</h3><ul><li><a href=\"https://newsroom.ibm.com/2026-11-12-ibm-announces-winner-of-sports-tech-startup-prize-challenge-at-web-summit-lisbon-2026\">IBM Announces Winner of Sports Tech Startup Prize Challenge at Web Summit Lisbon 2026</a></li></ul>",
+      "file": "episodes/2026-11-16.mp3",
+      "bytes": 4366656,
+      "seconds": 545,
+      "published": "2026-11-16T06:45:32.797182-05:00",
+      "opening": "Zach, good morning. I've had my coffee, I'm settled in, and there's no rush. It's Monday, November 16th, and this is T L D L. Let's ease into the week together.",
+      "closing": "That's the morning, Zach. I'm closing the laptop on this one. Have a steady Monday.",
+      "picks": {
+        "greeting": "Open like a friend who has already had coffee and is easing you into the day.",
+        "tone": "calm and focused",
+        "transition": "Group related stories into themes and connect them, then handle one-offs quickly.",
+        "signoff": "End quietly and briefly, like closing a laptop."
+      }
+    },
+    {
       "date": "2026-11-15",
       "title": "A Quiet Sunday and a Loud Nvidia",
       "summary": "Weather first, Zach, and I'll be honest. I've got nothing for you. The forecast didn't come through this morning, so I can't tell you the high, the low, or whether to grab an umbrella. Peek out the window, or check your phone before you head out, and trust your own eyes over me.\n\nGood morning,...",
@@ -233,28 +251,10 @@
         "transition": "Move between stories the way a person would, with natural connective phrases, never a numbered list.",
         "signoff": "End with a light joke and a sign-off."
       }
-    },
-    {
-      "date": "2026-11-02",
-      "title": "Unlimited Tokens and a Gray Monday",
-      "summary": "Good morning, Zach. I've had my coffee, I'm settling in next to you, and there's no rush at all. It's Monday, November 2nd, and this is T L D L.\n\nLet's start with the weather, because it's a pretty one to ease into. Auburn Hills is looking mild for early November. We start around 52 degrees this...",
-      "notes_html": "<p><b>Weather:</b> high 63F, low 52F, overcast.</p><h3>TLDR TECH (2026-11-02)</h3><ul><li><a href=\"https://www.tomshardware.com/tech-industry/big-tech/cisco-gives-27-year-old-engineer-unlimited-ai-tokens-to-rewrite-98-percent-of-the-companys-legacy-code-in-24-months-president-plucks-former-startup-founder-telling-him-to-go-nuts\">Cisco gives 27-year-old engineer unlimited AI tokens to rewrite 98% of the company's legacy code in 24 months</a></li><li><a href=\"https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5\">OpenAI Raises Less Than Half of $30 Billion Target in Latest Round</a></li><li><a href=\"https://arstechnica.com/space/2026/10/spacex-no-longer-needs-nasa-and-thats-a-problem-for-americas-space-agency/\">SpaceX no longer needs NASA, and that's a problem for America's space agency</a></li><li><a href=\"https://www.engadget.com/2303434/meta-reportedly-built-a-humanoid-robot-prototype-that-can-do-household-chores/\">Meta Reportedly Built A Humanoid Robot Prototype That Can Do Household Chores</a></li><li><a href=\"https://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html\">Postgres 19 is late, and it's AI's fault</a></li><li><a href=\"https://seldo.com/posts/a-proposal-how-to-hire-junior-engineers-in-the-age-of-ai/\">A proposal: how to hire junior engineers in the age of AI</a></li><li><a href=\"https://www.nytimes.com/2026/10/31/technology/binance-hack-crypto-north-korea.html\">How Binance's $6.3 Billion Hack Went Down</a></li><li><a href=\"https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html\">Digital minimalism</a></li><li><a href=\"https://jyn.dev/rising-tide-raises-rents/\">A rising tide raises all rents</a></li><li><a href=\"https://blog.starpointllp.com/2026/10/shopify-stripe/\">Shopify Reduces Stripe Dependency</a></li><li><a href=\"https://electrek.co/2026/10/30/waymo-toyota-bz4x-robotaxi-japan-2027/\">Waymo picks Toyota bZ4X as its next robotaxi, starting in Japan in 2027</a></li><li><a href=\"https://robonomics.substack.com/p/robotics-new-era-after-astra\">Robotics' New Era After Astra</a></li><li><a href=\"https://colossus.com/article/michael-kratsios-office-frontier-ostp/\">The Office of the Frontier</a></li><li><a href=\"https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/\">Mathematics has changed. Let's act like it</a></li></ul>",
-      "file": "episodes/2026-11-02.mp3",
-      "bytes": 2913552,
-      "seconds": 485,
-      "published": "2026-11-02T06:45:46.771579-05:00",
-      "opening": "Good morning, Zach. I've had my coffee, I'm settling in next to you, and there's no rush at all. It's Monday, November 2nd, and this is T L D L.",
-      "closing": "That's it for today, Zach. Light jacket for the morning, no umbrella. Closing the laptop now. Talk tomorrow.",
-      "picks": {
-        "greeting": "Open like a friend who has already had coffee and is easing you into the day.",
-        "tone": "curious and enthusiastic",
-        "transition": "Lead each story with why it matters, then the facts.",
-        "signoff": "End quietly and briefly, like closing a laptop."
-      }
     }
   ],
   "tldr_used": {
     "ai": "2026-11-13",
-    "tech": "2026-11-15"
+    "tech": "2026-11-16"
   }
 }

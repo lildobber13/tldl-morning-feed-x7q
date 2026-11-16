@@ -1,0 +1,45 @@
+A Quiet Monday Start With Big Headlines
+
+Zach, good morning. I've had my coffee, I'm settled in, and there's no rush. It's Monday, November 16th, and this is T L D L. Let's ease into the week together.
+
+First, the weather. The forecast didn't come through this morning, so I don't have a high, a low, or any word on rain or wind for Auburn Hills. It's mid November in Michigan, so I'd dress in layers and keep a jacket close. A quick look out the window or at your phone will tell you the rest.
+
+On to the news. T L D L AI doesn't have a new issue yet. The latest is still Friday's, which we already covered, so we'll pass on that one. The tech issue is here, and it has plenty.
+
+Let's start with the story that's loudest right now. An online petition calling for Jensen Huang to be reinstated as CEO of Nvidia has passed 160,000 signatures. It has reportedly drawn support from Elon Musk, Epic Games CEO Tim Sweeney, and Y Combinator CEO Garry Tan. Huang is under investigation over how his actions may have damaged America's AI dominance, the national security implications, and his close relationship with President Trump and his Cabinet. He has talked about the possibility of returning. But the investigations around him will likely keep that from happening.
+
+Next, a few stories about Apple. The first is about the smart glasses. Apple plans to ship them in 2027, and the new Siri AI rolled out earlier partly because Apple needs software makers to start preparing. The bet is that apps people already use on their iPhones will be the main draw. Apple's big developer ecosystem could give it an edge over Meta and Google, since it could offer countless third-party integrations at launch. The hardware won't be dramatically different from what rivals offer. So getting the developer side right matters even more.
+
+The second Apple item is a new app to study how people use AI for health. The Apple Health AI study will look at comprehension, response quality, what drives user trust, and everyday health actions. The goal is to inform the responsible design of health AI, including how it might help people prepare for doctor's visits.
+
+And one more from the car world. Tesla has opened Cybercab pre-orders for personal use, with geographic restrictions and a $299 monthly fee. Select customers can pre-order the golden Cybercab for $29,990, with estimated delivery in December.
+
+Now to science, which had a good weekend. SpaceX caught Starship in midair on Saturday afternoon, using the mechanical arms on its launch tower. That's a major proof of concept. SpaceX has now caught both sections of the launch system, though on different missions. On the recent flight it called off an attempt to catch the Super Heavy booster because the engines slightly underperformed.
+
+Staying in the science lane, a San Francisco fusion startup called Marathon Fusion claims it has made gold from mercury. There are caveats. The company hasn't said how much gold it made, and the process needs a fusion plant that doesn't exist yet. The bigger idea is isotopes. Many fields rely on isotopes from aging reactors, and this process could open up a world of abundant ones, along with new markets.
+
+One more science story, and it's a sober one. China has fired researchers after a child died in a gene-editing trial. According to the report, the researchers failed to flag warning signals from a study in non-human primates. They also didn't disclose the child's death in the published research paper.
+
+Now for the thread that ran through much of today's issue, which is what AI is doing to work and to research.
+
+On the work side, there's a piece on AI, work from home, and the young-graduate job market. New college graduates are employed less than they were a few years ago. AI may be part of that. But there's growing evidence that work from home is an important factor too. The trouble is that AI exposure and how easily a job can be done remotely are highly correlated, so it's hard to separate the two. The piece suggests the full effect of AI on the labor market might not show up until the next recession.
+
+A related one is titled AI and hiring: bad for employees, bad for employers. The short version is that AI is flooding processes that need input from the public, and many of them are breaking.
+
+Now the research side, where a few essays are circling the same question of how fast AI can improve itself. One argues that the avalanche that hit math is coming for AI development. AI's math ability exploded quickly, and today's models can easily handle well-scoped problems. The author thinks that matters even more for machine learning research than for math. AI labs mostly care whether a new algorithmic recipe makes training more efficient or produces smarter models. They don't care about theory for its own sake.
+
+Another post tries to untangle recursive self-improvement. It breaks the idea into three components and shows how the deep learning paradigm forces researchers to ask what counts as the self being improved.
+
+And a third makes a more aggressive forecast. It argues that if recursive self-improvement has started, a broadly beyond-human AGI could arrive in just six to 18 months. The headline says trend extrapolation gets us there in one to four years. That's one author's argument, not a settled fact, but it's the kind of timeline that comes up in client conversations.
+
+Since that's your world, there's also a practical piece called Building always-on agents. These are agents that run indefinitely, manage context across sessions, and act without direct supervision. They've surged in popularity lately, largely because recent model advances have made them more practical to run. Models now have better judgment, they're more reliable, and intelligence is getting cheaper. The post breaks down the building blocks behind these agents and shows how they fit together.
+
+And last, for the builders, there's an essay on making a programming language. The idea is that a compiler is a line of small programs. Each one turns one shape into the next. Text becomes tokens, tokens become a tree, and the tree gets checked. Then either an interpreter runs it or it becomes a native binary. No single stage is hard. The real work is in making errors useful and keeping two backends in agreement.
+
+That's the tech issue.
+
+Now IBM. The news from the last few days is from Web Summit Lisbon. IBM announced LivXP as the winner of its Sports Tech Startup Prize Challenge, recognizing the company for using agentic AI to change how fans engage with their teams, organizations, and leagues. The challenge was the finale of a year-long global initiative to find growth-stage startups building enterprise-ready technology for sports. Seven finalists pitched to a judging panel that included IBM's Chief Communications and Brand Officer Sarah Meron, Ferrari ambassador Marc Gené, CNN's Brad Smith, and Frederico Gil, founder and CEO of FREDGIL Academy.
+
+LivXP is a Swiss-American company that was accelerated at the Harvard Innovation Labs. It builds AI-powered impulse commerce infrastructure for sports, meaning auctions, experiences, and sponsor activations that land at the moment a fan is most excited. Its white-label platform is used by groups from the Tour de Suisse to Boston College Athletics, reaching fans in 150 countries.
+
+That's the morning, Zach. I'm closing the laptop on this one. Have a steady Monday.
