@@ -1,0 +1,69 @@
+Anthropic Goes Public and Apple Eyes Agents
+
+Rise and shine, Zach! It's Friday, November 20th, and you're tuned to T L D L. We've got a clear sky, a big stock market debut, and a whole lot of agents. Let's go.
+
+First, the weather in Auburn Hills. It's a good one. Today looks clear from start to finish, with a high of 64 and a low of 44. This morning starts crisp, somewhere between 44 and 48 degrees from about seven to ten. By late morning it warms up fast, into the upper 50s, and by early afternoon you'll hit that 64 degree high. The afternoon holds in the high 50s to low 60s under plenty of sun. Evening cools back to the upper 40s and low 50s, still clear. There's no chance of rain at all, and the wind tops out around 8 miles an hour, so barely a breeze. Sunrise is right about now, 7:30, and sunset is at 5:06 this evening, so the light goes early. My suggestion is a light jacket for the morning, which you'll probably shed by lunch. If you get a walk in at midday, this is the day for it.
+
+Now the news. Let's start with Google, because it had a busy one.
+
+Why it matters: the frontier model race keeps getting more competitive, and price is part of the story. Google introduced Gemini 4 Neon, a fast, frontier-level model aimed at complex coding, knowledge work, and science tasks. It scored 61 on the Artificial Analysis Intelligence Index, and it's priced at 3 dollars per million input tokens and 15 dollars per million output tokens.
+
+Also from Google, Genie 4 is now open to eligible Google AI Ultra subscribers inside Project Genie. It generates interactive worlds, and you can edit a world by typing prompts while you're exploring it. That's a pretty fun idea.
+
+Then there's a reality check. A blog post asked why Gemini 4 Carbon is taking so long. In a private benchmark, Carbon spent close to an hour on bug fixes that Claude Opus 5.5 and GPT-6 Astra finished in minutes. Carbon took about seven times as many steps as Astra, and half of those steps were unnecessary. So raw model power isn't the whole story. Efficiency matters.
+
+Efficiency is also the theme of another Google item. If you've wondered why Google Antigravity eats through your weekly quota, one writer measured it. Antigravity wipes your prompt cache after a 5 minute pause. Refreshing the cache just before it expires works, but only for 3 pings. And even a 5 word prompt starts with somewhere between 13,800 and 16,800 tokens of system instructions, tool schemas, and skills. The practical fix is to disable the MCP servers and plugins you don't use, which shrinks those cold turns and cache misses. Quick one for the toolbox, Zach.
+
+Last Google item is small. Google Labs introduced Stitch Loop, a new tool for iterative product development.
+
+Next, OpenAI, with a few stories that all point the same direction: AI is now helping build AI.
+
+Why it matters: this is AI improving the hardware it runs on. OpenAI says design changes proposed by its models cut the circuit area of key parts of its Jalapeño AI chip by an estimated 10 to 13 percent. Working with AMD, the same approach delivered up to 14 percent improvements on AMD's flagship GPU designs.
+
+And there's an update on research acceleration at OpenAI. Its agents now complete nearly half of the two-to-four-hour research tasks on their own. Still, humans remain central to AI development. Agent use is surging, and the heaviest users are pulling further ahead. Researchers are also putting more and more human effort into safety and alignment.
+
+One more from OpenAI for anyone who cares about agent security. A look inside the Codex sandbox explains how the coding agent can run commands on your own machine, within file and network limits that you control.
+
+Now some tools and infrastructure, which is where a lot of Zach-relevant work happens.
+
+Why it matters: agents are only as good as the context and plumbing around them. Perplexity launched a Context API that pulls the full context from any web page and returns clean Markdown, links, and relevant passages. It can read up to 10 URLs at once. Agents can set how fresh each request needs to be and validate the source of each result. Every successful result also includes page metadata like title, description, language, author, and publication date.
+
+Prime Intellect introduced Model Factory, a training loop that lets any company train, deploy, and keep improving models in production. It pulls reinforcement learning, supervised fine-tuning, pre-training, and inference into one control plane. It also has health checks, automatic node replacement, and recovery from the latest checkpoint for long experiments. It's already been used by teams in finance automation, computer use, scientific discovery, and chip design, among others.
+
+There's also a long and clever read on switching models mid-conversation. Most routing work is about sending the right request to the right model, cheap for easy, frontier for hard. For coding agents, that's only half the problem. The other half is knowing when a running session should switch models, and the post frames that as the classic ski-rental problem. Rent or buy, basically.
+
+Two quick enterprise items. Meta says it uses AI agents to spread machine learning improvements across its many ads ranking models. And ResolveAI introduced SRE-1, a model it says offers top accuracy for production work across budgets.
+
+Now the money, and this is the big one.
+
+Why it matters: it's a marker of just how much capital is flowing into AI. Anthropic is now public. Its stock, ticker ANT, debuted on the Nasdaq at 111 dollars and 50 cents a share, with a market cap of 1.8 trillion dollars. It closed yesterday at 97 dollars and 17 cents. So it had a bumpy first day, but the debut itself is a landmark moment for the industry.
+
+And a related number. Anthropic spent nearly 10 billion dollars on compute and infrastructure in the third quarter of 2026. Epoch AI says Anthropic's compute spending is growing about 4 times per year, outpacing OpenAI's 3 times.
+
+Now the heavier reading. Two long essays take on where all this is going.
+
+Why it matters: they frame the stakes of the next few years. One, from Zvi, argues there's a substantial possibility of superintelligence arriving next year. Any plan to prepare has to assume the full automation of AI research and development, which would rapidly push AI abilities past human levels. He says the plan needs ways to slow that growth down.
+
+The other, called The Silent Consensus, argues that the most common vision of an AI future isn't totally positive, but it's rarely said out loud. The claim is that human choices may lead to a world where people have given up effective authority over much of civilization. Even with extraordinary progress on safety and alignment, we could end up having submitted to a machine entity. Sobering stuff for a Friday.
+
+Moving to the broader tech issue.
+
+Why it matters: Apple is the giant that's been quiet on agents, and that may be changing. Bloomberg reports Apple is developing an autonomous AI agent that can get things done for users, like offerings from OpenAI, Anthropic, Meta, and others. Apple is hiring a senior engineering manager for a proactive, agentic assistant that can write code, browse the web, control apps, and navigate devices. It's working on agents that plan and carry out multi-step tasks across apps, browsers, command lines, code, and APIs, coordinating specialized subagents along the way. And the App Store has been dominated by AI agents, so the upcoming macOS 27.3 update adds a new warning that prompts users to reconsider before giving third-party agents permission to control their Macs.
+
+Now a little pop culture. Grand Theft Auto VI is widely expected to be the biggest launch in video game history. Estimates say more than 30 million copies will sell by the end of Rockstar's fiscal year in March. The game reportedly cost about 1.4 billion dollars to make, and presales stood at 1.65 billion dollars as of Wednesday. For scale, the previous installment has sold nearly 230 million copies and generated 10.78 billion dollars since 2013.
+
+Now to space, and it's a good one. A European and Japanese mission, BepiColombo, is preparing to swing into orbit around Mercury. It's only the second mission ever to enter orbit there. Scientists hope it explains how Mercury formed so close to the Sun, why it has a magnetic field, and what the frozen ice is made of in the permanently shadowed craters. The spacecraft separates into two orbiters in early December, they'll move into different polar orbits, and science operations begin in April.
+
+And more space, with an AI twist. Blue Origin's New Glenn rocket will launch data center satellites for Google in 2029. That's part of Project Suncatcher, a long-term moonshot to scale AI infrastructure in space using solar power. Each satellite has roughly the computing capacity of one data center rack. They'll fly in a Sun-synchronous orbit, where they get nearly continuous sunlight.
+
+On the practical engineering side, PostgreSQL 19 is out. It adds a REPACK CONCURRENTLY command, so you can optimize tables for your current workload without interrupting ongoing operations. A new extension called pgplanadvice gives you better control over plan stability and query performance.
+
+Also, a piece on moving into AI product engineering, from someone who made the switch at PostHog. The takeaway is that it's not that big a change. Understanding systems, failure modes, and how to prove correctness all transfer.
+
+A few more reads for later. One says AI forecasters now match or beat top humans on traditional forecasting questions, and researchers need to study how that success fades on less traditional questions. Another is a long conversation on the Epoch Capabilities Index, a single number from Epoch AI that summarizes how models do on benchmarks. It covers how it's built, whether talking about model IQ makes sense, and whether static benchmarks stay useful as models improve.
+
+And the quick hits. One post on being a 10x engineer says to find opportunities that used to be too expensive, too hard, or impossible, and make them happen. Another says AI has significantly sped up hacking of both hardware and software, in a piece on LLM-assisted reverse engineering. Google Research describes the magic square game, which you can't win without a quantum computer, as a demonstration of contextuality. A blog argues don't buy RAM, compress it. It costs more CPU and adds latency in some cases, but gives you a huge amount of extra capacity. And Rest of World reports that data companies are paying medical professionals to generate and annotate data, rank model answers, and verify outputs, a sign that AI may be turning some professional work into low-paid gig work.
+
+That's the news. On the IBM front, there's nothing new in the last couple of days, so your employer is keeping its head down this morning.
+
+That's the show, Zach. Jacket on for the cool start, sunglasses for the afternoon, and no umbrella. If you remember one thing today, make it this: Anthropic is now public, opening at a 1.8 trillion dollar valuation. Talk tomorrow.
