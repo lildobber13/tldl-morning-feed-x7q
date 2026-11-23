@@ -1,0 +1,41 @@
+A Quiet Briefing With Some Big Claims
+
+Good morning, Zach. It's Monday, November 23rd, and this is T L D L. Nothing is on fire. A few things are interesting, one thing is possibly historic, and one thing involves a villa. I'll take you through it.
+
+Let's start with the weather in Auburn Hills. It's a chilly start. Right around sunrise, which is 7:34 this morning, you're looking at the mid 30s under a clear sky. By late morning and into the early afternoon, it climbs to about 40 to 42 degrees, still clear, so that's your best window if you need to be outside. The high today is 47, though I wouldn't count on feeling that.
+
+Around three o'clock, clouds fill in and it turns overcast. By evening it cools to the mid 30s with a mix of clouds, and the low tonight dips to 31. The forecast does mention light snow, but the odds are small, 16 percent at the very most, and most of the day looks dry. So don't pack a shovel. Wind gusts could reach 15 miles an hour, enough to make 40 feel like less. My suggestion is a real jacket, not a hopeful one. And sunset is at 5:04, so the drive home will happen in the dark.
+
+Now the news. The A I edition of TLDR hasn't published a new issue yet this morning. The latest one is Friday's, and we already covered it. So today's news comes from the tech edition, and it's a full one.
+
+Let's begin with the big claim. An Anthropic researcher says he worked with AI to find a proof of the Riemann Hypothesis. That's the famous number theory conjecture about how prime numbers are distributed, and mathematicians have been chasing it for 167 years without success. The detail that matters is that the proof reportedly passed verification with proof-checking software. That's the part that separates a big claim from a big press release. It's still a claim, so expect the math world to go through this with a magnifying glass. But if it holds, that's a remarkable Monday.
+
+On the more practical side of the road, Tesla has launched Full Self-Driving version 15, and it's rolling out now. The release notes read like a list of the feature's biggest weaknesses. There are improvements to sign detection, potholes, and speed handling in school zones. It also adds a live visualization that looks impressive, and FSD can now slow down for speed cameras. Potholes, in Michigan. I'd say that's the real stress test.
+
+Next, a story that sounds like science fiction and is actually a clinical trial. Neuralink has increased the rate of its surgeries and extended its trials to Canada and the U K. The first participants now video chat with new ones to coach them through adjusting to the technology. Here's the catch. The terms of those trials don't include upgrades. Unless Neuralink comes up with a commercial device, participants would have to return to their lives from before the implant. That's a strange kind of beta test, one where you can't keep the product.
+
+Related to the science side, there's an essay arguing that AI in biology is not just a data problem. How far AI gets will depend on how much data we have, but also on what gets measured and how good it is. A pile of systematically incomplete measurements won't give you a full understanding of something as complex as a cell. The author thinks AI will be a powerful tool for studying biology, but there's still no clear path to a complete account of how a whole cell or tissue works. So, more data helps. It just isn't magic.
+
+And a counterweight to all the hype: a writer who doesn't expect superintelligence in 2027. He says the industry leans toward very short timelines, and he figures we're about 60 percent of the way there compared with where we were in 2022. His guess is 2029 instead. Two years sounds like a rounding error, but he argues it matters, because it changes what the industry should prioritize. He thinks pushing aside long-timeline work is a mistake. It's refreshing to hear a forecast that doesn't come with a countdown clock.
+
+Now for a story that has everything except subtlety. The Wall Street Journal has a profile of Li Ming, a 52-year-old Chinese national, reportedly a central operator of a web of companies that smuggled restricted Nvidia AI chips to China. That web included Megaspeed, a Singapore-based company led by Alice Huang, who the report says had an affair with Nvidia's Jensen Huang. Li is out on bail in Singapore, living in a luxury villa down the street from the Chinese embassy. He was charged with fraud in February 2025 in a case tied to the alleged transshipment of Nvidia chips, and his criminal case is ongoing. Export controls, personal entanglements, and a nice villa. Somebody is going to option this.
+
+Over in workplace news, Microsoft is changing how it pays cloud workers. Employees who get top marks will receive additional stock awards, while workers with lower results will have formal meetings with their managers. So the carrot is stock, and the stick is a calendar invite. That tracks.
+
+Let's move to the builders' corner. One developer vibe-coded an FPGA into running a large language model, and wrote up the experience. The point is that AI lets developers work in entirely new domains, with languages and paradigms they didn't know before. With a big token budget and interesting problems, the range of what's possible keeps growing. Hardware design as a weekend project. Sure, why not.
+
+A companion piece is about informal verification. The argument is that verification is really about building trust, and a formal approach may be sufficient but isn't strictly necessary. The post explores using fast, intuitive models as informal proof checkers, and says informal methods can complement formal ones when you're building software with agents. In other words, trust but verify, and also verify the verifier.
+
+And there's a post on shipping more than 100 pull requests to production in a single week. Many of the merged ones are simple, but the author says the jump in output shows how the fundamentals of software development have changed. A hundred is a lot. I'd ask how many of them someone actually read.
+
+A few quick ones. One researcher compressed a billion bytes of Wikipedia down to 105,388,353 bytes, and that count includes the weights and decoder. They used a 12-layer Transformer with 163 million parameters, initialized from a 34 million parameter model quantized to 4.33 megabytes. Wikipedia, but smaller. A lot smaller.
+
+On the privacy side, researchers planted 2 million canaries into the AI supply chain, and what they found was ugly. They describe an ecosystem that leaked highly sensitive data like a sieve. Given your day job, that's worth a quiet moment of concern, and maybe a forwarded link to someone in security.
+
+On media, there are two pieces that go together. One says more than 95 percent of new micro dramas released in China are now made with AI, under the headline "Why China Won AI Video." The other asks whether we'll see autonomous media in 2027, noting that AI voices and AI video are getting good, which will have serious impacts on media. I'd say we're past the "will it" stage and into the "how much, how fast" stage.
+
+That's the tech edition, and the whole tour.
+
+On the IBM front, I've got nothing for you this morning. No announcements, no headlines, not a whisper in the last few days. A quiet corner of the news is a nice thing to have on a Monday.
+
+That's the briefing, Zach. Jacket on for the cold start, and plan for an early dusk. My small wish for you today is that one thing goes exactly the way you planned it, with no edits. Talk to you tomorrow.

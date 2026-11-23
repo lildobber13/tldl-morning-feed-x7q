@@ -1,6 +1,24 @@
 {
   "episodes": [
     {
+      "date": "2026-11-23",
+      "title": "A Quiet Briefing With Some Big Claims",
+      "summary": "Good morning, Zach. It's Monday, November 23rd, and this is T L D L. Nothing is on fire. A few things are interesting, one thing is possibly historic, and one thing involves a villa. I'll take you through it.\n\nLet's start with the weather in Auburn Hills. It's a chilly start. Right around sunrise,...",
+      "notes_html": "<p><b>Weather:</b> high 47F, low 31F, light snow.</p><h3>TLDR TECH (2026-11-23)</h3><ul><li><a href=\"https://electrek.co/2026/11/21/tesla-fsd-v15-rollout-25x-safety-reality-view/\">Tesla launches FSD v15, targets its biggest weaknesses, from signs to potholes</a></li><li><a href=\"https://www.wsj.com/tech/ai/anthropic-mathematician-says-claude-has-solved-the-most-famous-problem-in-math-9361920b\">Anthropic Mathematician Says AI Has Solved the Most Famous Problem in Math</a></li><li><a href=\"https://new.life.com/stories-details/neuralink-noland-arbaugh-cover-story\">The Merge</a></li><li><a href=\"https://combine-lab.github.io/blog/2026/11/22/ai-bio-data.html\">AI x Bio is not _just_ a data problem</a></li><li><a href=\"https://ankitg.me/blog/vibecoding-inference-chip/\">Vibecoding an inference chip</a></li><li><a href=\"https://www.nikolasgoebel.com/2026/11/22/informal-verification.html\">Informal Verification</a></li><li><a href=\"https://danni763618.typeform.com/to/H1tYViME\">Become a founding member of TLDR's AI community (2 minute form)</a></li><li><a href=\"https://community.tldr.tech/t/weekly-what-s-your-unpopular-opinion-about-ai\">What's your unpopular opinion about AI? (TLDR Community)</a></li><li><a href=\"https://blog.karthiktadepalli.com/p/asi-2027\">I don't expect superintelligence in 2027</a></li><li><a href=\"https://www.wsj.com/tech/li-ming-megaspeed-nvidia-chips-china-6260d836\">The Alice Huang Associate Accused of Funneling Nvidia Chips to China</a></li><li><a href=\"https://lethain.com/passing-100-prs-in-a-week/\">Shipping 100+ PRs to production in a week</a></li><li><a href=\"https://manassaloi.com/2026/11/21/why-china-won-ai-video.html\">Why China Won AI Video</a></li><li><a href=\"https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/\">Researchers plant 2m canaries into the AI supply chain. A privacy disaster surfaced</a></li><li><a href=\"https://tufalabs.ai/research/tufazip/\">tufazip: Learning to Compress a Billion Bytes of Wikipedia</a></li><li><a href=\"https://danielmiessler.com/blog/autonomous-media-2027\">Autonomous Media in 2027?</a></li><li><a href=\"https://www.bloomberg.com/news/articles/2026-11-20/microsoft-to-pay-top-cloud-workers-more-crack-down-on-others\">Microsoft to Pay Top Cloud Workers More, Crack Down on Others</a></li></ul>",
+      "file": "episodes/2026-11-23.mp3",
+      "bytes": 2778480,
+      "seconds": 463,
+      "published": "2026-11-23T06:45:31.974456-05:00",
+      "opening": "Good morning, Zach. It's Monday, November 23rd, and this is T L D L. Nothing is on fire. A few things are interesting, one thing is possibly historic, and one thing involves a villa. I'll take you thr",
+      "closing": "That's the briefing, Zach. Jacket on for the cold start, and plan for an early dusk. My small wish for you today is that one thing goes exactly the way you planned it, with no edits. Talk to you tomor",
+      "picks": {
+        "greeting": "Open calm and understated, like a trusted chief of staff giving a quiet briefing.",
+        "tone": "dry and witty",
+        "transition": "Use short reactions between stories (a quick opinion, a question, a raised eyebrow) as transitions.",
+        "signoff": "End with a short, warm send-off and one small wish for the day."
+      }
+    },
+    {
       "date": "2026-11-22",
       "title": "A Quiet Sunday With Loud Money",
       "summary": "Clear and chilly to start, gray by lunch, and a chance of rain after dark. That's your Sunday in Auburn Hills.\n\nGood morning, Zach. It's Sunday, November twenty second, and this is T L D L.\n\nLet me fill in the weather. You're starting around forty degrees, and the morning stays clear and cool...",
@@ -233,28 +251,10 @@
         "transition": "Group related stories into themes and connect them, then handle one-offs quickly.",
         "signoff": "End with a one-line recap of the single thing worth remembering today."
       }
-    },
-    {
-      "date": "2026-11-09",
-      "title": "Crisp Start and Quantum Chicago",
-      "summary": "Zach, it's a crisp one out there. You're starting the day at about 38 degrees under clear skies, so that first walk to the car has some bite to it. Stick around and I'll tell you how the rest of the day shapes up.\n\nGood morning, Zach. It's Monday, November 9th, and this is T L D L.\n\nLet's finish...",
-      "notes_html": "<p><b>Weather:</b> high 54F, low 38F, overcast.</p><h3>TLDR TECH (2026-11-09)</h3><ul><li><a href=\"https://www.bloomberg.com/news/newsletters/2026-11-08/apple-explores-turning-siri-ai-into-chatgpt-dots-like-agent-ios-28-shake-up\">Apple CEO Presses Software Chief to Pursue More Ambitious AI Strategy</a></li><li><a href=\"https://www.nytimes.com/2026/11/08/technology/nvidias-investigation-jensen-huang.html\">What to Know About Nvidia's Investigation of Its CEO</a></li><li><a href=\"https://scottaaronson.blog/\">Aaronson-Ambainis Conjecture proved! (By AI, of course)</a></li><li><a href=\"https://www.cnbc.com/2026/11/08/amazon-home-robot-fauna-sprout.html\">Amazon's Astro home robot has fans but looks destined for the \u2018trash heap.' Why it's trying again</a></li><li><a href=\"https://www.seangoedecke.com/llms-are-terrible-at-designing-ai-systems/\">LLMs are terrible at designing AI systems</a></li><li><a href=\"https://www.natemeyvis.com/programming-and-fatigue/\">Programming and fatigue</a></li><li><a href=\"https://hrih.si/articles/the-jevons-paradox-has-a-second-half/\">The Jevons paradox has a second half</a></li><li><a href=\"https://thelastsoftwareengineer.substack.com/p/ai-is-causing-signal-collapse-everywhere\">AI Is Causing Signal Collapse Everywhere All at Once</a></li><li><a href=\"https://martinalderson.com/posts/the-great-software-ip-writedown/\">The great software IP writedown</a></li><li><a href=\"https://www.seangoedecke.com/working-with-designers/\">Working with designers</a></li><li><a href=\"https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos\">AI broke the cybersecurity world. What's next?</a></li><li><a href=\"https://sergeykuhne.com/blog/fighting-ai-brain-fry\">How I'm fighting the AI Brain Fry</a></li><li><a href=\"https://www.wsj.com/economy/jobs/is-ai-taking-white-collar-jobs-what-the-latest-numbers-tell-us-dd31b115\">Is AI Taking White-Collar Jobs? What the Latest Numbers Tell Us</a></li><li><a href=\"https://mceglowski.substack.com/p/how-long-can-life-wait\">How Long Can Life Wait?</a></li></ul><h3>IBM</h3><ul><li><a href=\"https://newsroom.ibm.com/blog-ibm-sports-tech-startup-challenge-culminates-at-web-summit-lisbon-2026\">IBM Sports Tech Startup Challenge culminates at Web Summit Lisbon 2026</a></li><li><a href=\"https://newsroom.ibm.com/2026-11-06-ibm-unveils-its-most-advanced-quantum-computer-in-chicago,-marking-a-milestone-for-illinoiss-quantum-future\">IBM Unveils Its Most Advanced Quantum Computer in Chicago, Marking a Milestone for Illinois's Quantum Future</a></li><li><a href=\"https://newsroom.ibm.com/2026-11-05-oak-ridge-national-lab,-ibm,-and-amd-launch-new-co-design-platform-for-quantum-error-correction\">Oak Ridge National Lab, IBM, and AMD Launch New Co-Design Platform for Quantum Error Correction</a></li></ul>",
-      "file": "episodes/2026-11-09.mp3",
-      "bytes": 3814848,
-      "seconds": 635,
-      "published": "2026-11-09T06:45:35.744583-05:00",
-      "opening": "Zach, it's a crisp one out there. You're starting the day at about 38 degrees under clear skies, so that first walk to the car has some bite to it. Stick around and I'll tell you how the rest of the d",
-      "closing": "That's the show, Zach. Jacket on this morning, take it off by lunch, and no umbrella needed. I'd tell you a joke about the new Siri, but she'd just ask me to repeat the question. Have a great Monday. ",
-      "picks": {
-        "greeting": "Open with the weather as the hook, then the greeting.",
-        "tone": "upbeat and warm",
-        "transition": "Use short reactions between stories (a quick opinion, a question, a raised eyebrow) as transitions.",
-        "signoff": "End with a light joke and a sign-off."
-      }
     }
   ],
   "tldr_used": {
     "ai": "2026-11-20",
-    "tech": "2026-11-22"
+    "tech": "2026-11-23"
   }
 }
