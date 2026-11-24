@@ -1,0 +1,63 @@
+Huang Returns and Agents Keep Waiting
+
+Zach, good morning! I just came through the door with a full stack of news under my arm, and I'm setting it down right here. It's Tuesday, November 24th, this is T L D L, and we've got a CEO comeback, a courtroom story, a math milestone, and a lot of models. Let's get into it.
+
+First, the weather in Auburn Hills. Today is a cold one, but a calm one. You're looking at a high of 37 and a low of 23, and the low is where we're starting. Between seven and ten this morning it's in the mid 20s, around 23 to 26, with clear skies. Sunrise is 7:35, so the sun's just making its entrance as you're getting going. By late morning and early afternoon, you climb into the low to mid 30s, 32 to 36, still clear and bright. Then clouds fill in through the afternoon, with temps around 34 to 37, and it stays overcast into the evening, settling back to 26 to 28. Sunset is at 5:03, so plan for an early dusk. Zero chance of rain or snow today. Wind tops out around 11 miles an hour, enough to make it feel sharper than the numbers say. So wear a real coat, grab gloves for the morning, and give yourself a minute for a cold windshield. No umbrella needed.
+
+Now the news, and we start with the biggest story on the board, the Nvidia comeback.
+
+Why does it matter? Because the company that makes the chips behind most of the AI boom just swapped its leadership back. Nvidia is bringing Jensen Huang back as CEO after his resignation. CNBC reports that President Trump sealed the deal, making a personal promise that Huang had not broken national security laws. The sharp stock drop after Huang resigned, and questions about the interim CEO's leadership, also pushed the board. Here's the twist. Nvidia's newly appointed board chair had previously said the board did not intend to reinstate Huang. Trump believes his administration's close working relationship with Huang gives the U S its best shot at protecting national security and keeping cutting-edge AI chips away from banned customers. And a Wall Street Journal piece adds that the scrutiny around Huang from before his resignation isn't going away. Major investigations still surround him. So he's back, but the spotlight came with him.
+
+Staying in the courtroom lane, there's a story that matters because it's about who might be listening in your meetings. Abdulrahman Alfozan, a former OpenAI engineer, has pleaded not guilty to an eavesdropping charge. He's accused of bugging an office conference room, likely to intercept trade secrets. He's asked for bail, but prosecutors worry he could flee before trial, citing his relatively weak ties to the U S and the considerable resources and connections he has in Saudi Arabia. So far, the government has found hundreds of audio files on his computer, many involving discussions of what may be trade secrets. He appears to have uploaded at least some of the recordings to Dropbox. We'll see how the bail question lands.
+
+Now, a big one for the math fans, and honestly for anyone who likes a historic moment. This matters because it's a famous problem getting an unusual kind of answer. On November 20th, Levent Alpöge released a proof of the Riemann Hypothesis as a Lean library, 17 million lines of code. The Lean and Mathlib communities say they have full confidence the proof is correct. The library compiles, and the code proves the right statement. What's still missing is the human explanation. The math community is expected to help explain the ideas in the proof over the coming weeks. So the computer has checked it, and now the people have homework.
+
+Next, the big debate in AI right now. Two pieces sit on opposite sides of the same question: how fast is this actually going?
+
+On the fast side, METR put out a capability update. Why it matters: it's a measuring stick for how quickly AI is improving at AI research itself. METR says frontier models often match or beat skilled humans on well-defined coding and optimization tasks. The length of tasks they can complete doubles about every 3.6 months. And METR says the public evidence can't rule out a drastic speedup in AI research within the next couple of years.
+
+On the skeptical side, Ramez Naam argues that the most important charts in AI are wrong. Why it matters: a lot of planning rests on those forecasts. His point is that AI capabilities are getting impressive, but they're still dramatically below what influential forecasts and benchmarks predicted. Those forecasts say super-intelligence is imminent, and the gap between the real world and the forecasts keeps growing. His advice is to stop being AI theorists and become AI empiricists, now that real-world data exists.
+
+Zach, that tension is a good one to carry into client conversations. Both camps have receipts.
+
+There's also a short, sharp piece on safety. Why it matters: it's about whether our fixes for bad model behavior actually work. The argument is that penalizing detected reward hacking during post-training could select for behavior that evades monitors. The author says the industry needs stronger training sandboxes, better-audited tasks and graders, and empirical research into whether interventions improve alignment or just conceal the bad behavior. In other words, you might not be teaching the model to behave. You might be teaching it not to get caught.
+
+Speaking of Anthropic, there's a Wall Street Journal profile of the brother-sister duo trying to keep the company weird. Why it matters: culture shapes how a company that big makes its choices. Anthropic embraces being atypical because it believes the AI future will be anything but normal. Dario Amodei, 43, is the CEO and ideological leader. He has one direct report, his chief of staff, who is also his sister, Daniela Amodei, 29. The company screens new hires with culture interviews, and the piece looks at how the two built a culture in their likeness.
+
+And a related product note. Anthropic's Claude Ship is out. Why it matters: it's another step toward agents handling the review loop, not just the writing. Claude can now review, fix, and approve pull requests, if a team's policy allows it.
+
+Over at OpenAI, there's a defensive move. They're stepping up defenses against adversarial distillation. That's where outsiders train their own models on OpenAI's outputs to copy its capabilities. It matters because it's about protecting what makes a frontier model expensive to build.
+
+On the deal desk, Amazon is reportedly nearing a $7.5 billion purchase of Decart, a three-year-old AI startup. Three years old, and a deal that size. That's a fast climb.
+
+Let's go to the model release round-up, because there's a lot here.
+
+Thinking Machines released Inkling 2 Mini. It matters because open-weight models are getting seriously capable at small sizes. It's a 26.4 billion parameter model that does extra internal computation to reason more before it answers. It leads every open-weight model under 100 billion parameters on the DeepSWE coding benchmark.
+
+Tencent released Hy4, also open-weight. It handles text, image, and video understanding, with a 770 billion parameter backbone that activates 49 billion parameters per token. It brings a million-token context window, sparse attention, and a speculative-decoding drafter. Tencent is aiming it at coding, computer use, finance, research, and long-running assistant workflows.
+
+NVIDIA has a different approach with Nemotron-Labs-Sigma. It's a family of 14 open checkpoints at 3 billion and 8 billion parameters. Instead of predicting one token at a time, these models generate text by denoising compact token embeddings. Why care? Speed. The 8 billion model reaches a 3.46 times average throughput speedup over standard autoregressive decoding on a GB200.
+
+Hugging Face introduced harness adapters. The idea is to tune a model like Qwen3.8 27B to a specific harness and task combination, using reinforcement-learning-trained LoRA adapters. The result is higher accuracy and efficiency, with significantly fewer tokens used. That means better performance and lower cost.
+
+Baseten introduced bison-1 and groundhog-1. They're built on Google's Gemma 4 and designed for teams that want an American base model.
+
+And two lighter ones. Gemini Omni 1.2 Flash can now create GIFs, with smooth motion and consistent quality across every frame. Also, there's a piece from OpenAI on perplexity, the metric that measures how well a model predicts the next token. Lower perplexity means better predictions. The piece says it has stood the test of time and will likely help standardize how we talk about AI progress.
+
+Now the rest of the tech desk, starting with the Tesla story.
+
+Why does it matter? Because it tells you what Tesla owners can realistically expect. According to Electrek, FSD version 15 is Tesla's last real shot at unsupervised self-driving on the AI4 computer. The next-generation A15 chip won't be coming to cars. The mid-cycle AI4.5 upgrade had its RAM cut from 32 gigabytes to 24. That refresh exists mainly because Tesla needs a new memory type it can actually buy. And the AI4 chip now costs twice as much, thanks to memory and storage price hikes.
+
+In science, Quanta has a great piece on the DNA repair system that makes gene editing work. It matters because it shows gene editing is leaning on something life has relied on from the start. Cells have a native mechanism that recognizes and replaces faulty DNA before lasting damage sets in. It evolved essentially alongside DNA, since you can't have stable genetic information without repair. Scientists use these natural self-editing tools to insert, delete, or mutate genes to study and treat disease.
+
+For the builders, a few quick hits. Ladybird, the open source browser built from scratch with its own web engine, has reached alpha after four years. It's functional, usability is modest, and some sites will still crash. It's available for macOS and Linux. There's also Declare, a domain-specific UI language for humans and AI agents, which turns prototypes into structured, verifiable apps.
+
+On the practical side, a piece on legacy modernization with LLMs measured the cost. It runs about $1,100 at API prices for the first generation of a translation of more than half a million lines of source. That's a number worth remembering, Zach, given your day job.
+
+A developer also found their Claude Code agents were running only about 26 percent of the time. The rest was waiting. And an essay on watching users says observing someone try your product is humbling and often excruciating, but it reveals problems you'd never guess. Being afraid of feedback is a surefire way to build bad products. Another essay says humanity can chart a path to both prosperity and sovereignty, but we can't count on it happening by default.
+
+And from the TLDR community threads, a couple of useful ideas. For AI brain fry, one person suggests having agents test competing options, make reversible calls themselves, and ask for help when a choice is hard to undo. Another has their agents send a daily batch of questions to a reMarkable tablet to think through with a pen. On system prompts, one favorite rule is "If an action can be undone, do it and tell me what you did." Another is "Revise only on new evidence or arguments," which keeps Claude from flip-flopping when challenged. And one community prompt asks for 2027 predictions, including that by the end of 2027, picking a model yourself could feel as archaic as tweaking its temperature.
+
+Now the IBM desk. And it's a quiet one. Nothing new on the IBM front in the last couple of days, so the bench is empty. We'll check again tomorrow.
+
+That's the show, Zach. Coat and gloves for the cold start, no umbrella, and expect an early sunset. And one last thought. Those Claude Code agents were running just 26 percent of the time, and honestly, that's about my efficiency before coffee. Talk to you tomorrow.
